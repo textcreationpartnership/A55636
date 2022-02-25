@@ -1,0 +1,951 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of the blessed St. Agnes virgin and martyr in prose and verse / by L. Sherling.</title>
+            <author>Sherling, L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 130 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55636</idno>
+            <idno type="STC">Wing P3179</idno>
+            <idno type="STC">ESTC R25817</idno>
+            <idno type="EEBO-CITATION">09145267</idno>
+            <idno type="OCLC">ocm 09145267</idno>
+            <idno type="VID">42518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42518)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of the blessed St. Agnes virgin and martyr in prose and verse / by L. Sherling.</title>
+                  <author>Sherling, L.</author>
+               </titleStmt>
+               <extent>[5], 127 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for G.K.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agnes, --  Saint, Martyr.</term>
+               <term>Catholics --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42518:1" rendition="simple:additions"/>
+            <p>THE LIFE of the Bleſſed S<hi rend="sup">T.</hi> AGNES <hi>VIRGIN</hi> and <hi>MARTYR, In</hi> Proſe <hi>and</hi> Verſe.</p>
+            <p>By <hi>L. SHERLING.</hi>
+            </p>
+            <q>
+               <p>Tibi me virtus tua fecit Amicum.</p>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. H.</hi> for <hi>G. K.</hi> 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42518:2"/>
+            <pb facs="tcp:42518:2"/>
+            <head>TO the Worſhipful <hi>ROBERT STAFFORD</hi> of <hi>Bradfeild</hi> in the County of <hi>Berks,</hi>
+               <abbr>Eſq</abbr>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>O keep a <hi>mean</hi> as it hath alwaies been very difficult, I know not in what it is more accounted ſo, then in that of writing a <hi>Panegyrick.</hi> A Reflection which I queſtion not, <hi>Sir,</hi> but you have heard me make, ſince I firſt had the honour of your Converſation. Not that I am of that <hi>ſevere</hi> or <hi>moroſe</hi> humour of which ſome men are guilty, who think every thing dull or <hi>nonſence</hi> which is ſo ſpoke of one, as that it may with as much juſtice be applied to another. Of the reaſons which made me firſt imagine this way of writing ſo difficult one was, becauſe I never ſaw above two (in my judgment) good: the one that of <hi>Pliny</hi> to the <hi>Emperour,</hi> the other that of our incomparable <hi>Poet Laureat</hi> to the <hi>Duke</hi> of <hi>New Caſtle.</hi> Theſe have been the only men as yet, of whom we might not with <hi>Tully,</hi> ſay, (pardon the pedantry) <hi>his lauda<g ref="char:EOLhyphen"/>tionibus
+<pb facs="tcp:42518:3"/>hiſtoria rerum noſtrarum facta eſt mendocior.</hi> The other reaſon was that I ever judg'd it as great an abuſe to an Ingenuous Perſon, to ſay more of him then he deſerves, as it would be to our ſelves to ſay leſs. However, <hi>Sir,</hi> in writing to you, I am ſure to avoid one extream, ſince all my endeavours muſt needs fall ſhort of delineating thoſe Virtues, which a <hi>Dryden</hi> only can deſcribe, and I admire. 'Tis only for ſuch a <hi>Heroe</hi> in witt to expreſs what I have only a faint <hi>Idea</hi> of, and you would have as juſt reaſon to be angry with me, if I ſhould attempt it; as <hi>Alexander</hi> had with thoſe bold men, who durſt preſume to draw his <hi>Picture,</hi> while the skillful <hi>Apelles</hi> was yet living. Had I ſooner been acquainted with you, (ſo much I find the improvment of one year,) I might then poſſibly ere this been able to perform it not un<g ref="char:EOLhyphen"/>worthy ſo much goodneſs, and from your ſelf learn'd truly to expreſs you: for if as moſt ſay <hi>Converſation</hi> teacheth as much as Books; I may (in a different ſence then what is uſual,) juſtly call <hi>you</hi> a living <hi>Library.</hi> But I owe my miſhap to <hi>Fortune</hi> whom you held ſo long your Debtor, 'till <hi>Providence</hi> as if it miſtruſted the ill <hi>Diſpenſation</hi> of ſo fair an <hi>Eſtate,</hi> re<g ref="char:EOLhyphen"/>mov'd ſo many <hi>Heirs</hi> to give it to your ma<g ref="char:EOLhyphen"/>nagement, and diſpoſal. Nor indeed has it been deceiv'd in it's Choice. Your <hi>Charity</hi> be<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:42518:3"/>univerſal, and not only confin'd to your <hi>Lordſhip.</hi> The poor of which (being by rea<g ref="char:EOLhyphen"/>ſon of the largeneſs, very numerous) in your abſence, expect your return with more Faith then the <hi>Iſraelites</hi> did their <hi>Manna,</hi> and are as certainly reliev'd by you. They call your coming (be it at what time of the year it will) a <hi>good time,</hi> and find little comfort in a <hi>Chriſtmaſs,</hi> or <hi>Eaſters</hi> contribution, if you are not there to ſhew at once an example of <hi>Charity</hi> and <hi>Magnificence,</hi> of which there are not only living Monuments: The rebeautify'd Church of <hi>Bradfeild,</hi> with thoſe neceſſary and decent <hi>Or<g ref="char:EOLhyphen"/>naments</hi> given to it of your bounty, Ubraids our <hi>Puritanical</hi> Age with its irreverence, and tell it we have yet ſome true Sons of the <hi>Church</hi> left, who think God ought not be ſerv'd more ſlovenly then the meaneſt Prince, and that <hi>De<g ref="char:EOLhyphen"/>cency</hi> is no Lett to <hi>Devotion.</hi> But 'tis not only your <hi>Charity</hi> we admire; how free are you from all thoſe <hi>Debauches,</hi> which uſally ac<g ref="char:EOLhyphen"/>company a plentiful <hi>Eſtate,</hi> which to enume<g ref="char:EOLhyphen"/>rate would be thought too Satyrical. You <hi>Sir,</hi> as if Nobility only conſiſted in Virtue (although I know not any that can ſhew a larger ſeries of Noble <hi>Anceſtors</hi> then your ſelf,) are as well known by your Virtues as your Mannors, and ſeem wholy to employ your <hi>Eſtate,</hi> in cor<g ref="char:EOLhyphen"/>recting thoſe vices, others of your <hi>Quali<g ref="char:EOLhyphen"/>ty</hi>
+               <pb facs="tcp:42518:4"/>are guilty if. I could willingly expatiate of ſo pleaſant a Subject, did I not fear I ſhould ſeem to undertake that raſh task, I but juſt now profeſs'd ſo much above me. I will now, <hi>Sir,</hi> give you an account why I chooſe this Sub<g ref="char:EOLhyphen"/>ject of all others, to preſent to you as a Testimony of the reſentments I have of all thoſe endear<g ref="char:EOLhyphen"/>ing <hi>Obligations</hi> you have been pleaſed to confer upon me. It has been ſeriouſly wiſhed by all your Friends, (among which you have been pleaſed to allow me a Title) that you would ſpeedily ſettle your affections on ſome <hi>Lady</hi> which might deſerve your Love, (and really, <hi>Sir,</hi> you are to injurious to that fair Sex, if you imagine there are not any which can deſerve it; I could not therefore think of a fitter expedient then this, to bring you into a good Opinion of thoſe Creatures, which you never ſeem'd to favour, without ſhewing any great averſion for them. Here <hi>Sir,</hi> is <hi>a Lady</hi> preſented to you, whom not to Love; would not only be ignoble but impious, and I doubt not (if you ſhall do me the honour to peruſe this life,) but that the noble <hi>Agnes</hi> will revenge all thoſe fair <hi>Females;</hi> whoſe charms you have hitherto ſo ſtoutlie reſiſted: I do not hereby intend to make the Chaſt Saint a Bawd to any impure Love, (for although in her life time ſhe pro<g ref="char:EOLhyphen"/>feſs'd Virginity, yet ſhe never queſtion'd the
+<pb facs="tcp:42518:4"/>lawfullneſs of the Marriage Bed,) but only to animate you to the ſearch of ſome <hi>Heroine,</hi> who hath all thoſe Virtues you ſee that Sex is capable of: which (if our age be not too barren) that you may ſoon find is the Praier of,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt obedient Servant to command, <hi>L. SHERLING.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42518:5"/>
+            <pb n="1" facs="tcp:42518:5"/>
+            <head>THE LIFE of the Bleſſed S<hi rend="sup">T</hi> AGNES <hi>
+                  <g ref="char:V">Ʋ</g>IRGIN</hi> and <hi>MARTYR, In</hi> Proſe <hi>and</hi> Verſe.</head>
+            <p>THE Holy Catholick Church of our Bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our, had now allmoſt defeated the Rage of it's Perſecutors, for the ſpace of nigh 300 years, and Gentil<g ref="char:EOLhyphen"/>iſm was now advanc'd to ti's laſt ef<g ref="char:EOLhyphen"/>forts of malice and cruelty, when our bleſſed Martyr Saint <hi>Agnes</hi> was diſ<g ref="char:EOLhyphen"/>clos'd to the world, in the Reign of
+<pb n="2" facs="tcp:42518:6"/>
+               <hi>Diocleſian</hi> and <hi>Maximian,</hi> or if you pleaſe to obleige them with thoſe godly Titles of their own coining, <hi>Jovius</hi> and <hi>Herculeus.</hi> You might juſtly wonder that ſo ſweet a Jewel was plac'd in ſo troubleſome a Ge<g ref="char:EOLhyphen"/>neration, did not adverſity give a new luſtre to all that is worthy and excellent. Thoſe petty twinckling eies of night, that ſo beautifully a<g ref="char:EOLhyphen"/>dorn the face of Heaven, when ſur<g ref="char:EOLhyphen"/>rounded by obſcurity, cannot ſo much as be ſeen, when the Sun ap<g ref="char:EOLhyphen"/>proaches, and if you take away the Jet from the ſparkling Diamond, you will rob it of the greateſt part of thoſe glories, that you ſee it adorn'd withall. So Holy a Virgin , ſo un<g ref="char:EOLhyphen"/>daunted a Martyr, ſo Chaſt a Lady, in a word, ſo good a Chriſtian, could ſtand the Shock of Ten Thouſand <hi>Diocleſians,</hi> and being ſupported by the Grace of her deareſt Saviour, could ſtill preſerve her faith and honour, and remain as good a Virgin, as a
+<pb n="3" facs="tcp:42518:6"/>Chriſtian, maugre all the vain aſſaults of luſt and cruelty. Her very Ene<g ref="char:EOLhyphen"/>mies, though unwillingly, extreamly oblig'd her, and their very oppoſi<g ref="char:EOLhyphen"/>tion, furniſh'd her with matter for a Triumph.</p>
+            <p>St. <hi>Agnes</hi> was Born at Rome, of a Noble Family, though the Names of her Parents I cannot poſſibly ac<g ref="char:EOLhyphen"/>quaint you with, nor preciſely in what year of our Lord it was, St. <hi>Ambroſe</hi> and all that have oblig'd the world with the Hiſtory of our bleſſed Mar<g ref="char:EOLhyphen"/>tyr, being herein unanimouſly ſilent, nor ought our curioſity to engage us in an unneceſſary ſearch of things of ſuch indifference, and that when kown cannot yeild us any conſidera<g ref="char:EOLhyphen"/>ble advantages. The <hi>Nile</hi> enrich'd the <hi>Egyptians</hi> never the leſs becauſe his head was undiſcovered, And the Life of the holy <hi>Agnes</hi> may ſtir us to as great a piety, as if we knew her Pa<g ref="char:EOLhyphen"/>tents moſt exactly. How ſhe ſpent
+<pb n="4" facs="tcp:42518:7"/>her Youth, her Pious Life, and moſt Chriſtian Death, may give us reaſon to conjecture, though all the Au<g ref="char:EOLhyphen"/>thours I could meet with, have not ſpoke a word of it in particular; and ſince I dare not aſſume the liberty of foiſting any in thing that the authori<g ref="char:EOLhyphen"/>ty of St. <hi>Ambroſe</hi> &amp;c. would nor juſti<g ref="char:EOLhyphen"/>fie, I ſhall paſs it over, and advance to the more important parts of her Life, where we ſhall make a full diſ<g ref="char:EOLhyphen"/>covery of all thoſe Beauties, Charms, and Graces that a Crucified Saviour can preſent us with, in compariſon of which all our worldly pleaſures muſt looſe their reliſh, and a Hea<g ref="char:EOLhyphen"/>venly Spouſe be preferr'd to all out earthly enjoyments. But 'tis very certain that our holy Martyr, when ſhe was very Young, had dedicated her Virginity to her ſweet Redeemer, and made a formal Vow of perpetual Chaſtitie, which may clearly be diſ<g ref="char:EOLhyphen"/>covered by the ſequal of this diſ<g ref="char:EOLhyphen"/>courſe, and therefore it would be very
+<pb n="5" facs="tcp:42518:7"/>impertinent to inſiſt long upon it.</p>
+            <p>Pious Lady, Thou at thoſe years hadſt fix'd thy thoughts on Heaven, and waſt engag'd in the contemplati<g ref="char:EOLhyphen"/>on of the Holy Jeſus, which we com<g ref="char:EOLhyphen"/>monly ſpend in gratifying our corrupt Affections, thou did'ſt anticipate thy years, and without an abſurdity, I may juſtlie ſay, thou waſt old even in thy childhood, and had'ſt the pru<g ref="char:EOLhyphen"/>dence and all that was to be eſteem'd of that age, without any of it's incon<g ref="char:EOLhyphen"/>veniencies. Who dare ſay ſhe was Young and Childiſh, that was allready ripe for Heaven, and had finiſh'd her glorious courſe of Chriſtianity. She was now about Thirteen years of age, when all the temptations imaginable conſpired to Divorce her from her Saviour. Love (that potent Paſſion, that hath occaſion'd ſo diſmal effects in the world, that by a ſweet inſinu<g ref="char:EOLhyphen"/>ation betrays us to our ruine, and pleaſes into our deſtruction) was the firſt obſtacle that was oppoſed to her
+<pb n="6" facs="tcp:42518:8"/>flight to Heaven, and that endeavou<g ref="char:EOLhyphen"/>red to retard her purſuit of a bleſſed Eternity; which was thus.</p>
+            <p>As ſhe was returning home from School, a Young Gentleman, the Son of one <hi>Symphronius,</hi> at that time Go<g ref="char:EOLhyphen"/>verour of the Citie, young and hand<g ref="char:EOLhyphen"/>ſome, and Maſter of all thoſe excellen<g ref="char:EOLhyphen"/>cies that render one of his years ac<g ref="char:EOLhyphen"/>compliſh'd, and that might have en<g ref="char:EOLhyphen"/>ſlaved any Soul but St. <hi>Agnes</hi>'s, unfor<g ref="char:EOLhyphen"/>tunately chanc'd to ſee her: He ſaw her, he admir'd her, he lov'd her, all in an inſtant: That crowd of Beauties that Heaven had endow'd her with, to render her fair body a worthy ha<g ref="char:EOLhyphen"/>bitation of it's fairer inhabitant, were not long in producing their effect. Ladies leſs conſiderable could not have done that in an Age, that her fair eies effected in a moment. The Sun illuſtrates all the Horizon at once, and that Affection our Gal<g ref="char:EOLhyphen"/>lant had for Saint <hi>Agnes,</hi> at it's firſt
+<pb n="7" facs="tcp:42518:8"/>Creation (I can juſtly term it no o<g ref="char:EOLhyphen"/>ther, that was a motion ſo inſtanta<g ref="char:EOLhyphen"/>neous) was not any longer capable of degrees. In fine, he loved her, he doted on her, be preferr'd her to half his Heathen Deities, and in her fruition he placed his only felicity. He had not now opportunity either to ſpake to her, or enquire of what Familie ſhe was, And indeed, had all the opportunities in Nature courted him at that time, he could ſcarce have made any benefit of them, being ſur<g ref="char:EOLhyphen"/>priſed with the greateſt aſtoniſhment that can be imagined.</p>
+            <p>However after ſome time having made enquirie who ſhe was (a Star of ſo great magnitude could not poſ<g ref="char:EOLhyphen"/>ſiblie long be hid) he underſtood ſhe was of a Noble Familie, and born in that Citie, and what ever elſe he learned of her, from his intelligence, gave him all the ſatisfaction that his Soul was capable of receiving. She's
+<pb n="8" facs="tcp:42518:9"/>Noblie Born, ſaid he, clapping his hand on his breaſt, after a profound Réverie, and now I may juſtlie Court her Affections; I may own my Love without diſhonour, and my Father, my indulgent Father, will never op<g ref="char:EOLhyphen"/>poſe himſelf to my Intentions. But Villain (continued he with a great deal of vehemence) how was it poſ<g ref="char:EOLhyphen"/>ſible ſhe ſhould be otherwiſe, or how could one imagine that the bountiful Gods, would throw away ſo many perfections on an ignoble Perſon. No, what ever her Familie was, or could be, ſhe would ſufficiently en<g ref="char:EOLhyphen"/>noble it, and transfund an excellence into all about her; ſhe muſt neceſſa<g ref="char:EOLhyphen"/>rily either find her Kindred Noble, or make them ſo. The moſt pittiful Rock in the Ocean can borrow luſtre from it's bright Native, the Pearl that grows upon it, and the moſt craggy Shelves can gain worth and eſteem from their Diamonds, their Illuſtrious Inhabitants. Well 'tis ſo,
+<pb n="9" facs="tcp:42518:9"/>and I have nothing to conquer, but the heart of that Fair one, to com<g ref="char:EOLhyphen"/>pleat my happineſs. Whereupon our young Inamorato, ſpur'd on by his Paſſion, and arm'd with Confi<g ref="char:EOLhyphen"/>dence, that his Fathers power in the Cittie at that time, might extreamly advance his deſign, he is reſolv'd to addreſs himſelf to the fair <hi>Agnes,</hi> and having ſignified the deſire he had to wait upon her, with all the reſpects in the world, and humbly begged her permiſſion, at laſt he acquainted her with his Paſſion in the moſt mov<g ref="char:EOLhyphen"/>ing words that could be uſed in that conjuncture; and when he had ſaid what he would, and expected her Anſwer; what hopes and fears was he then engaged in? But his eies with their dumb Rhethorick ſtill purſu'd his Petition.</p>
+            <p>The poor Lady, ſurpriſed at this ſo diſpleaſing a propoſal, ſtood in the greateſt amazement that ever ſoul was troubled with, and if I ſhould tell
+<pb n="10" facs="tcp:42518:10"/>you it was not unlike that aſtoniſh<g ref="char:EOLhyphen"/>ment which a poor Traveller reſents, when at midnight he ſees his fellow thunder-ſtrook juſt by his ſide, I ſhould make you but a faint reſem<g ref="char:EOLhyphen"/>blance of it. But after ſome few mi<g ref="char:EOLhyphen"/>nutes recollecting her ſcattered Spi<g ref="char:EOLhyphen"/>rits, and looking upon him with an eye that at once pitied and condemned his paſſion, ſhe thus anſwer'd him.</p>
+            <p>Remove (noble Sir) that Afffecti<g ref="char:EOLhyphen"/>on, that will be equally troubleſome to both of us. I cannot imagine how this Miſerable Face ſhould gain me that eſteem, you are pleas'd to ob<g ref="char:EOLhyphen"/>leige me with; and I think more Cha<g ref="char:EOLhyphen"/>ritably of all Men, then to think any one can be ſo much miſtaken, and have forfeited their Reaſon and Judg<g ref="char:EOLhyphen"/>ment as to Love her, who may juſtly be contem'd of all the World, and there to place an Obligation, where it would be counted an injurie. In a word for that very Love's ſake, you
+<pb n="11" facs="tcp:42518:10"/>ſay you have for me, forgo it utterly, baniſh it, and with it all the train of Jealouſies, Fears, Hopes, and o<g ref="char:EOLhyphen"/>ther Diſtractions, that will undoubt<g ref="char:EOLhyphen"/>edly purſue it. This, Sir, is the means to obleige me, and this is the greateſt Teſtimony, I can demand of your Af<g ref="char:EOLhyphen"/>fection.</p>
+            <p>Ah! Madam, reply'd our Gallant, how unjuſt you are in this demand? Should Love deſtroy it ſelf, to ſhow it's ſincerity? And is there no other way to manifeſt the truth of it, but by thoſe Acts of indifference you mention? Stay Madam, for Heavens ſake, that— He was vehement<g ref="char:EOLhyphen"/>ly continuing his diſcourſe, when the Lady interrupted him. No Sir, (ſaid ſhe) 'tis my final reſolution, ſuſpend your ardour, or if you will continue your Affection , which I cannot re<g ref="char:EOLhyphen"/>compence; expect no mutual return from her, that avows to you and all the world, ſhe is already diſpos'd of, my Soul's too free and open to make
+<pb n="12" facs="tcp:42518:11"/>uſe of Artifice, and draw you on in<g ref="char:EOLhyphen"/>to a Paſſion, that it is poſſible may ruin you; and I too much eſteem that Obligation you have laid upon me, to think you a fit Perſon to be ſo de<g ref="char:EOLhyphen"/>ceiv'd Be aſſur'd then, that my Soul is prepoſſeſs'd, and being enga<g ref="char:EOLhyphen"/>ged elſewhere cannot comply with your deſires; you are Honorable I muſt avow it, and Rich, and your Perſon is really Amiable, but ſince my Faith is already ty'd elſe where, theſe accompliſhments and advantages, will prove ineffectual to ſhock my fidelity. Give over then in time and let your Duty comply with your Intereſts.</p>
+            <p>No Madam (cry'd out the Lover) I muſt ſtill Love, while you are ſtill amiable; Blame not the exceſs of my Paſſion, while you are Lovely to Ad<g ref="char:EOLhyphen"/>miration. You may forbid me to hope for a ſuitable return, but know that deſpair it ſelf cannot make me ceaſe to love and adore you, and though others are the moſt happy, I may be the moſt faithful of your Servants.</p>
+            <pb n="13" facs="tcp:42518:11"/>
+            <p>He was Retreating, having ſaid thus, with a moſt profound reſpect, but in the moſt diſconſolate conditi<g ref="char:EOLhyphen"/>on that ever poor Lover was in, when St. <hi>Agnes</hi> pitying his misfortunes, wherein ſhe found her ſelf too deeply concern'd, pul'd him back and ſweet<g ref="char:EOLhyphen"/>ning all that Rigour ſhe had put on not long before; Stay dear Sir, ſaid ſhe, And pardon me that ſeeming cruelty, which you think me guilty of, my Soul is as capable of reſenting, your favours as you your ſelf could wiſh. I eſteem you, Sir; and will love you too, but as a Siſter. Content your ſelf with all I can render you. Leave your Love, for God's ſake, or place it on ſome more worthy Ob<g ref="char:EOLhyphen"/>ject, my choice cannot, muſt not be alter'd; He muſt have my whole Af<g ref="char:EOLhyphen"/>fection, that's only worthy of it; He muſt indeed, Sir, and you muſt no longer pretend to her, that will ac<g ref="char:EOLhyphen"/>knowledge no other Lord and Maſter, but him that Heaven hath already aſ<g ref="char:EOLhyphen"/>ſing'd her.</p>
+            <pb n="14" facs="tcp:42518:12"/>
+            <p>Who ever that happy perſon be, reply'd our <hi>Amorist,</hi> let him not think that I will tamely endure his happy<g ref="char:EOLhyphen"/>neſs. No, Madam, your Love cannot protect him. Since he hath the hap<g ref="char:EOLhyphen"/>pineſs to be belov'd of the fair <hi>Agnes,</hi> he ſhall alſo have the honour to die for her.</p>
+            <p>He ſpoke this with the greateſt fu<g ref="char:EOLhyphen"/>ry he could, and without taking the leaſt leave away he flung, rowling in his Breaſt revenge on his unknown Rival. Whilſt our holy Votary in vain recalling him, after ſhe had beſtow'd a Shower of Tears on his Misfortunes, which though unwillingly, ſhe was the unhappy cauſe of, ſhe went into her Cloſet, ſeating her ſelf in a poſture fit for her Devotion.</p>
+            <p>Sweet <hi>Jeſu,</hi> cry'd ſhe, thou art my dear Maſter, to thee have I dedi<g ref="char:EOLhyphen"/>cated my Life and Honour; Accept of this poor Sacrifice, which is my reaſonable ſervice. Preſerve what my free gift, and thy gracious Redemp<g ref="char:EOLhyphen"/>tion
+<pb n="15" facs="tcp:42518:12"/>hath made thine, and let not the Devil withal his gaudy Temptations, pull me from thy ſacred Protection, No, dear Saviour, he ſhall not by thy Help; I am in thy hands, and all the fury, the rage, as well as ſubtlety of Men and Divels, ſhall never remove me from ſo agreeable a refuge. My Virginity is now no longer my own, keep me chaſte, and inviolate, and render me a fit Veſtal for thy ſervice, ſhould I having ty'd my ſelf to my ob<g ref="char:EOLhyphen"/>liging Saviour, deſert him for a frail peice of mortality? And having taſt<g ref="char:EOLhyphen"/>ed thoſe preparations of Eternal Bliſs and Glory, run after thoſe dull and inſignificant contentments that ſo a<g ref="char:EOLhyphen"/>buſe the world with their pleaſing appearances? No gracious Lord, I'le accept of no Spouſe but thee, and how unworthy ſo ever of thy Love and Favour, my ſins have render'd me, I will in my Chaſtity Imitate thy Ho<g ref="char:EOLhyphen"/>ly Mother. And though I cannot be at once a Virgin and a Mother, pure
+<pb n="16" facs="tcp:42518:13"/>and Fruitful at the ſame Inſtant, which is the bleſſed Lady's Prero<g ref="char:EOLhyphen"/>gative, I will be a Wife and Virgin and with thy holy conſent too, nay and by thy command, preſerve my Virginity even after my Eſpouſals. Yes, bleſſed <hi>Jeſu,</hi> I will by thy help and favour, nor ſhall either Love or Pity perſwade me to any thing, that may offend my love to thee or my Duty.</p>
+            <p>Having ſaid either this or ſome<g ref="char:EOLhyphen"/>thing like it, ſhe roſe extreamly ſatis<g ref="char:EOLhyphen"/>fi'd, and the holy Spirit furniſh'd her with all thoſe graces that were neceſ<g ref="char:EOLhyphen"/>ſary for her in that conjuncture, which gently gliding through her Soul, ra<g ref="char:EOLhyphen"/>viſh'd her with all the delights that Saints were ever bleſt withal.</p>
+            <p>And then after ſomtime having paid her Devotion to Heaven, ſhe reflected on what the Young Gentle<g ref="char:EOLhyphen"/>man had ſaid to her. Fond Man, ſaid ſhe, how do thy Love and Anger delude thee, to what folly alas do they betray thee; Thy Rival fears
+<pb n="17" facs="tcp:42518:13"/>not what thy Sword can do againſt him, he will keep himſelf and me too, (if it be his holy pleaſure) from thoſe diſmal effects of thy fury that thou ſo vainly threaten'ſt. Do what thy Rage ſhall dictate to thee, and at laſt learn to acknowledge that I had infinite reaſon to contemn thee, and dote upon ſo Gracious, ſo Almighty a Redeemer. You may very well imagine with what Vehemence the <hi>Lady</hi> utter'd theſe words, and what ſorrows ſhe then was perplex'd with, both in pitying the Young Lover, ſince ſhe had bin the innocent cauſe of his mirfortunes, and in deploring her own unhappineſs; and you may (if you pleaſe) hear her thus expreſs<g ref="char:EOLhyphen"/>ing her reſentments.</p>
+            <pb n="18" facs="tcp:42518:14"/>
+            <lg>
+               <head>A Soliloquie.</head>
+               <l>
+                  <hi>TYrannick eies; for ſo ye ſtill will be,</hi>
+               </l>
+               <l>
+                  <hi>Cruel alike t'others, and to me,</hi>
+               </l>
+               <l>
+                  <hi>That with a guilty glance can ſtorm a Heart,</hi>
+               </l>
+               <l>
+                  <hi>And in each ray convey a</hi> Cupid's <hi>Dart;</hi>
+               </l>
+               <l>
+                  <hi>Ceaſe theſe your wild excurſions, and no more</hi>
+               </l>
+               <l>
+                  <hi>Procure Adorers, as you did before.</hi>
+               </l>
+               <l>
+                  <hi>Procure Adorers, as you did before.</hi>
+               </l>
+               <l>
+                  <hi>No, to ſome higher happineſs advance</hi>
+               </l>
+               <l>
+                  <hi>Then 'tis to be the Center of a Glance.</hi>
+               </l>
+               <l>
+                  <hi>Lye in your Lids fond Lights, poor wandring Stars,</hi>
+               </l>
+               <l>
+                  <hi>That make the Heathens twice Idolaters.</hi>
+               </l>
+               <l>
+                  <hi>No, no, look out, but doe not then doe not then deſcry</hi>
+               </l>
+               <l>
+                  <hi>Baſe worldly cheats that gaudy miſery</hi>
+               </l>
+               <l>
+                  <hi>Deſert theſe meaner ſights, and higher ſoar,</hi>
+               </l>
+               <l>
+                  <hi>That make the Heathens twice Idolaters.</hi>
+               </l>
+               <l>
+                  <hi>No, no, look out, but doe not then deſery</hi>
+               </l>
+               <l>
+                  <hi>Baſe worldly cheats that gaudy miſery</hi>
+               </l>
+               <l>
+                  <hi>Deſert theſe meaner ſights, and higher ſoar,</hi>
+               </l>
+               <l>
+                  <hi>Where Love, this fatal Love, ſhall be no more.</hi>
+               </l>
+               <l>
+                  <hi>Here's noble work to do, that may ſuffice</hi>
+               </l>
+               <l>
+                  <hi>The proud Ambition of the proudest eyes.</hi>
+               </l>
+               <l>
+                  <hi>Turn Heavenly Captives, in thoſe Fetters lye,</hi>
+               </l>
+               <l>
+                  <hi>Kiſsing thoſe Chains they're th' only Liberty.</hi>
+               </l>
+               <l>
+                  <hi>To Heaven, to Heaven advance your glimring ſight,</hi>
+               </l>
+               <l>
+                  <hi>Your Light refund unto the Sourſe of light.</hi>
+               </l>
+               <pb n="19" facs="tcp:42518:14"/>
+               <l>
+                  <hi>Now all your Charmes collect, your temping graces</hi>
+               </l>
+               <l>
+                  <hi>And Court his Favour, that all elſe ſurpaſſes</hi>
+               </l>
+               <l>
+                  <hi>Not with a wanton glance or melting eye,</hi>
+               </l>
+               <l>
+                  <hi>O! theſe are not the Chriſtians Armory.</hi>
+               </l>
+               <l>
+                  <hi>'Tis not with ſuch Artillery as this</hi>
+               </l>
+               <l>
+                  <hi>We pleaſe th' Almighty, when we force our bliſs.</hi>
+               </l>
+               <l>
+                  <hi>Bring here a Still of Tears, a broken Groan;</hi>
+               </l>
+               <l>
+                  <hi>With Sighs, and Vows, and Lamentation.</hi>
+               </l>
+               <l>
+                  <hi>While others are advanc'd to Heav'n by Fire,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe fervent Zeal did upward ſtill aſpire,</hi>
+               </l>
+               <l>
+                  <hi>I'le weep a Flood, and in that Flood I'le be</hi>
+               </l>
+               <l>
+                  <hi>Tranſported to a bleſt Eternity.</hi>
+               </l>
+               <l>
+                  <hi>And in a broken Sigh, I'le waft a Praier;</hi>
+               </l>
+               <l>
+                  <hi>'Twill ne're miſcary, ſighs true Bearers are,</hi>
+               </l>
+               <l>
+                  <hi>Here Lamentations not fruitleſs be,</hi>
+               </l>
+               <l>
+                  <hi>While I deplore I baniſh miſery.</hi>
+               </l>
+               <l>
+                  <hi>Thus ſhall my Soul to thee, dear Lord, aſpire</hi>
+               </l>
+               <l>
+                  <hi>Fervent in tears: Tears make the Flames the higher.</hi>
+               </l>
+               <l>
+                  <hi>On Duſt and Aſhes caſt an eye below,</hi>
+               </l>
+               <l>
+                  <hi>They're now notworthy, thou canſt make 'em ſo.</hi>
+               </l>
+               <l>
+                  <hi>What can't thy blood ſweet Lord, and merits do?</hi>
+               </l>
+               <l>
+                  <hi>He who for me turn'd Man, and ſuffer'd too,</hi>
+               </l>
+               <l>
+                  <hi>What after that, will he refuſe to do.</hi>
+               </l>
+            </lg>
+            <pb n="20" facs="tcp:42518:15"/>
+            <p>WHilſt the bleſsed Saint does thus entertain her Pious Soul; let us ſee how our paſſionate <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> ſpends his hours, whoſe every minute ſeems an Age, in the abſence of his Miſtreſs: He went away poſſes'd with the greateſt fury that ever Soul was in. He ſtamp'd, he Beat his Breaſt, and did whatever a Furious Perſon is us'd to doe in ſuch encoun<g ref="char:EOLhyphen"/>ters; He Imprecated his Heathen Deities to aſſiſt him in his Revenge. He vow'd the utter ruine of his un<g ref="char:EOLhyphen"/>known Adverſary, notwithſtanding all the difficulties he might meet with<g ref="char:EOLhyphen"/>al, and poſting home with all the ſpeed he could make, having lock'd himſelf up in his Chamber, he was ſomenting the moſt dreadful reſoluti<g ref="char:EOLhyphen"/>ons, that ever can be conceived.</p>
+            <p>Muſt I then be unhappy, ſaid he, and live the moſt unfortunate Perſon that ever Breath'd? Muſt I draw on my life in all the extreams of miſery, to a period no leſs unfortunate? Muſt
+<pb n="21" facs="tcp:42518:15"/>I do thus, and can't it be otherwiſe; No, it cannot, I muſt live and die a Wretch, and do all this, for an un<g ref="char:EOLhyphen"/>grateful Woman, and long of one perhaps leſs worthy then my ſelf. He ſtop'd here, and the vehemence of his reſentments was better expreſs'd by this ſilence, then it would have bin by all the words in the World. He continu'd not long ſo however, when beating his Breaſt he forc'd his Tongue in ſome meaſure to unravel his thoughts. But ſince I cannot en<g ref="char:EOLhyphen"/>joy her, continued he, and I am doom'd to my misfortunes, by a per<g ref="char:EOLhyphen"/>ſon notwithſtanding all her cruelty; ſo dear and agreeable to me, that even Death it ſelf would not be unwel<g ref="char:EOLhyphen"/>come when it proceeded from her: I will however have ſome Companion in my unhappineſs, and involve my envied Rival, for all her Love and Favour, in that Calamity, ſhe hath damn'd me to. I will do ſo, purſu'd he vehemently, Baſe and Ungrateful
+<pb n="22" facs="tcp:42518:16"/>Woman, in ſpite of that Reſpect I have for thee, that troubleſome Love and Reſpect that hath betray'd me into the worſt condition in the World. But can I thus injure him (continu'd he, after he had been ſilent for ſome moments) that ſhe is pleas'd to bleſs with her particular Affection? Yes, I can do more then injure him, that hath deprived me of the moſt ſu<g ref="char:EOLhyphen"/>pream happineſs, my Ambition could aſpire to.</p>
+            <p>I ſhould be extreamly tedious, ſhould I trouble the Reader, and my ſelf, with an exact account of all his Paſſion made him then utter. I ſhall therefore content my ſelf to acquaint him that after a nights reſt (if I can properly term that ſo, that was on<g ref="char:EOLhyphen"/>ly a repetition of his former diſtur<g ref="char:EOLhyphen"/>bances) he roſe, and laid out to all he could learn who this Favourite of his Miſtriſs was; But with what ſuc<g ref="char:EOLhyphen"/>ceſs you may eaſily imagine, though 'tis poſſible had there been any and he
+<pb n="23" facs="tcp:42518:16"/>capable of diſcovery, he might have ſetv'd himſelf with the greateſt Effi<g ref="char:EOLhyphen"/>cacy; ſince a Rival in ſuch a caſe, as being moſt intereſs'd, was moſt like<g ref="char:EOLhyphen"/>ly to find it out.</p>
+            <p>But after a tedious enquiry to no purpoſe, which though it infinitely diſcourag'd him, as depriving him of that Revenge he had already pro<g ref="char:EOLhyphen"/>mis'd himſelf, it did not a little en<g ref="char:EOLhyphen"/>courage him, and gave him ſome hopes, that only out of Deſign, and Artifice ſhe had told him ſo, when really it was otherwiſe. Having half perſwaded himſelf to believe, what his hopes ſuggeſted to him, he reaſ<g ref="char:EOLhyphen"/>ſures himſelf, ventures upon a Se<g ref="char:EOLhyphen"/>cond Viſit, which conſidering his Qualities, could not be well refus'd him. I ſhall leave you to gueſs what St. <hi>Agnes</hi> ſenſe was of it, ſhe trem<g ref="char:EOLhyphen"/>bled, ſhe changed her Colour, but ſtill for the better, and her very a<g ref="char:EOLhyphen"/>mazement and ſurpriſal, did very much increaſe her Beauty, and ren<g ref="char:EOLhyphen"/>derd
+<pb n="24" facs="tcp:42518:17"/>her more Lovely in the eies of our Young <hi>Amoriſt,</hi> that alas was but too too Lovely to him before. She was in this condition when our Young <hi>Roman</hi> accoſting her, aſſum'd the con<g ref="char:EOLhyphen"/>fidence to tell her, notwithſtanding he held her as infallible as his Divini<g ref="char:EOLhyphen"/>ties, who could not but be peſwad<g ref="char:EOLhyphen"/>ed that ſhe had abus'd into an er<g ref="char:EOLhyphen"/>rour, which was extreamly prejudici<g ref="char:EOLhyphen"/>al to his repoſe, and that he had troubled himſelf with the fear of a Rival to no purpoſe, ſince he was the only perſon that Love had inſpir'd with the aſſurance to lift up his eies to ſo much excellence. Be pleas'd therefore <hi>Madam,</hi> continu'd he in an extraordinary tranſport, to rid me of this doubt, and aſſure me of a truth, then the knowledg of which nothing can make me more happy, but the aſſurance of your mutual Af<g ref="char:EOLhyphen"/>fection.</p>
+            <p>He ſtaid his diſcourſe here, and the Pious Lady not without ſome dif<g ref="char:EOLhyphen"/>ficulty
+<pb n="25" facs="tcp:42518:17"/>aſſum'd it. Know Sir, reply'd ſhe, you have ſtill a Rival and ſuch a one as all your Intereſts in <hi>Rome;</hi> how conſiderable ſo ever, cannot remove him, did you know what ſin<g ref="char:EOLhyphen"/>cerity I alwaies make uſe of you would not have doubted of the truth of that, which I aſſur'd you of. Oh! <hi>Madam,</hi> anſwer'd the Lover haſtely, why ſhould you ſo ſoon return me to my former Apprehenſions, and diſa<g ref="char:EOLhyphen"/>buſe me of an oppinion ſo advantage<g ref="char:EOLhyphen"/>ous to my repoſe? I am not acquaint<g ref="char:EOLhyphen"/>ed with thoſe Arts, reply'd the Lady very ſharply, that abuſe Men into happineſs. Know fond Man, thou haſt a Rival; Know I Love him, and pre<g ref="char:EOLhyphen"/>fer him to all the World; and when thou know'ſt this, if thou wilt ſtill purſue a fruitleſs paſſion, never expect any thing from me but ſcorn and con<g ref="char:EOLhyphen"/>tempt. Diſmiſs thy troubleſome Af<g ref="char:EOLhyphen"/>fection, and retrive thy Liberty. I conjure thee to it by all that's Sacred, by thy own Intereſt, and if that be of
+<pb n="26" facs="tcp:42518:18"/>any force with thee, for my ſake, deſiſt to trouble me any more with thy addreſſes. Aſſure thy ſelf this will be the greateſt engagement thou can'ſt make me receive, and which will equally conduce to thy felicitie and my own.</p>
+            <p>She was retreating then into her Cloſet, when our moſt diſconſolate Lover cried out with ſome vehe<g ref="char:EOLhyphen"/>mence; I cannot ceaſe to Love thee, for all thy crueltie, but my addreſſes ſhall no more trouble thee. I can Die to pleaſe my ſelf, as well as thee, and my Death perhaps may give me as great a contentment, as it will thee, Cruel Creature; ſince it will free me from a Paſſion, that nothing elſe can Rob me of. He departed imme<g ref="char:EOLhyphen"/>diately huri'd in a moſt fatal grief. You may juſtly wonder he ſhould ſo ſoon run deſperate, and at his ſe<g ref="char:EOLhyphen"/>cond viſit abandon himſelf to ſo abſo<g ref="char:EOLhyphen"/>lute a deſpair; but be pleas'd to know he had before made her ſeveral Pre<g ref="char:EOLhyphen"/>ſents,
+<pb n="27" facs="tcp:42518:18"/>and ſpoke to her very often too, all which I omitted as having nothing in them extraordinary. The Gifts he made her, with which Ladies of her years, are eaſily deceiv'd, with all his fair and foul Words, Promiſes, and Threats, could not perſwade her to his deſires. She deſpis'd them all, and continually told him what Noble Preſents her Spouſe would make her, which I ſhall not here reckon up, both becauſe you may have them infinitely better expreſt'd in the Divine St. <hi>Ambroſe,</hi> as becauſe I will by no means debauch thoſe Chriſtian ex<g ref="char:EOLhyphen"/>preſſions with that, which we of this Age call Eloquence; ſince they ſhine far brighter in their native Purity. As <hi>Adam</hi> and the firſt Woman were fai<g ref="char:EOLhyphen"/>reſt, before they came to their Figg<g ref="char:EOLhyphen"/>leaves.</p>
+            <p>If the Gentleman was afflicted, he left the Holy Maid no leſs; She pour'd out all her ſorrows into the Boſome of her Bleſſed Saviour, for whoſe ſake
+<pb n="28" facs="tcp:42518:19"/>ſhe was thus Cruel in appearances; She prai'd for her Loving Enemy; She pitied him, but all was to little to break her Resolution of a perpetual Chaſtity. No, Bleſſed Lord, (would ſhe Cry out oftentime) neither Loves, nor Pitty, with all their ſoft Inſinua<g ref="char:EOLhyphen"/>tions ſhall ſtorm my conſent to an Act, that would rob Thee of thy Right. My Vow, and my Virginitie muſt be kept inviolate, and with thy Grace they ſhall, Holy <hi>Jeſu,</hi> my poor and unworthy Sacrifice.</p>
+            <p>Thus waſt thou, Pious Votary, peircing Heaven with thy Pious eja<g ref="char:EOLhyphen"/>culations, while thy diſconſolate Lover was engag'd in a very different ployment. His Soul poſſeſs'd with the greateſt Grief, Anger, Love, and Fury, that ever the world ſaw, was travers'd with all moſt contrary com<g ref="char:EOLhyphen"/>motions, and thoſe too almoſt in<g ref="char:EOLhyphen"/>compatible, at the ſame Inſtant. He curs'd his Stars, and yet in Spite of all his Rage and Fury, he could not
+<pb n="29" facs="tcp:42518:19"/>ſo much as have an ill thought of her that in his Opinion, was the Cru<g ref="char:EOLhyphen"/>eleſt thing that ever breath'd. How often was he deploring his own Cala<g ref="char:EOLhyphen"/>mitie, and then on the ſuddain enjoy<g ref="char:EOLhyphen"/>ing his Rival's happineſs, and per<g ref="char:EOLhyphen"/>haps ſcarce two Minutes after all this, complaining of his Miſtreſſe's unkindneſs. In ſo miſerable a diſtra<g ref="char:EOLhyphen"/>ction as his Soul then was, his Body could not chuſe but partake of the common miſerie. Their was as great Revolutions in his humours as in his thoughts, and that profound Melan<g ref="char:EOLhyphen"/>cholie that had ſeis'd his Soul; gave but too diſmal Effects not to be diſ<g ref="char:EOLhyphen"/>covered. I ſhall wave thoſe diſcour<g ref="char:EOLhyphen"/>ſes he then made uſe of, both becauſe they concern not ſo imediatelie our Holie <hi>Agnes,</hi> as becauſe other per<g ref="char:EOLhyphen"/>ſons in the ſame conditions might probablie ſpeak ſome thing like them.</p>
+            <p>He was got into his Chamber, there to entertain his thoughts with
+<pb n="30" facs="tcp:42518:20"/>the greater Libertie, where alas what felt he not, what ſaid he not, and what extravagancies was not he then guiltie of; But he was not long there before his Father was acquaint<g ref="char:EOLhyphen"/>ed with his diſturbance; When hur<g ref="char:EOLhyphen"/>ri'd on by that indulgence, he alwaies had had for him, purſu'd him into his Chamber, and taking him by the hand, with the greateſt tenderneſs, that ever Father yet diſcover'd, He asks him of the cauſe of his Melan<g ref="char:EOLhyphen"/>cholie; he intreated him to caſhier it, as he faithfullie promiſes, he will en<g ref="char:EOLhyphen"/>deavour to do the cauſe of it. And then ſeeing him in a deep Réverie he claſpes his hand ſomthing faſter, and with tears in his eies, which expneſs'd his ſentiments in their mute dialect, better then all the Elegance in the World. What means this ſilence, my Dear Boy; ſaid he, why doſt conceal thy misfortunes from a Fa<g ref="char:EOLhyphen"/>ther, that would ſacrifice his Life and Intereſts to pull thee thence? for
+<pb n="31" facs="tcp:42518:20"/>Heav'ns ſake tell me what powerful cauſe hath oppreſs'd thee with ſo kil<g ref="char:EOLhyphen"/>ling a Melancholie, Let me partake of thy misfortunes, as thou alwaies moſt dutifullie haſt of mine. Make thy Father thy Confident, and aſſure thy ſelf that I will omit nothing that may re-inſtate thee in thy former tran<g ref="char:EOLhyphen"/>quillitie.</p>
+            <p>Thus did the tender Father, careſs his Son, but could not yet extort a word from him; But continuing ſtill importunate, when the Young Man perceiv'd his Father would have an anſwer, with a Voice that eaſilie ſhew'd, what the thoughts were he was to expreſs with it. For the Gods ſake, let me alone, <hi>Sir,</hi> cried he out, and he pleaſed to pardon a diſo<g ref="char:EOLhyphen"/>bedience that only my reſpect to my Father could have produc'd. He ſaid no more, nor could the poor <hi>Sym<g ref="char:EOLhyphen"/>phronius</hi> make any probable Conje<g ref="char:EOLhyphen"/>cture yet, whence his Sons misfor<g ref="char:EOLhyphen"/>tunes and his own proceeded. And
+<pb n="32" facs="tcp:42518:21"/>after having made a Hundred (Queſti<g ref="char:EOLhyphen"/>ons, to no purpoſe, he was forc'd to leave him to his Solitude, where not long after he found him in a very vehe<g ref="char:EOLhyphen"/>ment Indiſpoſition, which gave him the moſt fatal Apprehenſions, that he was ever capable of conceiving.</p>
+            <p>Ah! Unjuſt Gods, would he often Cry out, and did that Pietie I have alwaies had for you, deſerve ſuch a recompence? Could not all my In<g ref="char:EOLhyphen"/>cence, and Sacrifices divert your Fu<g ref="char:EOLhyphen"/>rie; Was there not Jews enough, and Chriſtians that ſcorn you, and all your Deities, to Plague with your Calamities, that you diſpence them ſo prodigallie on your moſt Religious Obſervers? Had you but that com<g ref="char:EOLhyphen"/>paſſion you have planted in Human Breaſts, and were you not either a<g ref="char:EOLhyphen"/>bove or below it, (for I cannot tell which to term it) you never would have injur'd ſo much Goodneſs and Innocence; at leaſt if you would but look upon him with the eies of a Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="33" facs="tcp:42518:21"/>of ſo indulgent a Father as <hi>Sym<g ref="char:EOLhyphen"/>phronious.</hi> And thus did the unhap<g ref="char:EOLhyphen"/>pie Father make the Gods acquain<g ref="char:EOLhyphen"/>ted with his ſorrows, which had it been directed to a Dietie, that could have heard, and had any power to ſuccour him, might have prov'd effica<g ref="char:EOLhyphen"/>tious, for all his Blaſphemies. But in vain he Cri'd, he Pray'd, he Curs'd; his Cries, his Praiers, and his Cur<g ref="char:EOLhyphen"/>ſes were like thoſe of Romantick <hi>A<g ref="char:EOLhyphen"/>mourists,</hi> that compliment the Woods, the Seas and Rocks, that they fancie are leſs cruel, then their cruel Fair Ones; ſance they give them the hear<g ref="char:EOLhyphen"/>ing, which their Ladies will not do, and the complaiſant Eccho gives them a favourable anſwer to all their Petitions. But had not the careful <hi>Symphronious</hi> taken a greater care of his Son, than his Gods did, a Feaver might have diſpatch'd him out of the World, that was to fall by the im<g ref="char:EOLhyphen"/>mediate hand of the Almightie.</p>
+            <p>Our old Governour ſtaies not long
+<pb n="34" facs="tcp:42518:22"/>this condition, but procuring the beſt Phyſitians that were in <hi>Rome</hi> at that time, he endeavours by them to learn the cauſe of his Sons diſtemper. They felt his Pulſe, they conſulted his U<g ref="char:EOLhyphen"/>rine; but all their endeavours, accord<g ref="char:EOLhyphen"/>ing to the precepts of their Art, pro<g ref="char:EOLhyphen"/>ved ineffectual, which renderd the Old Gentleman a meer Deſperado, and I perſwade my ſelf that that grief which was derived to him from his Son, was of the nature of ſome plants, a ſlip whereof will make a more good<g ref="char:EOLhyphen"/>lie Bodie than the Mother-ſtock, from whence it was taken: Since his Sons extravagant ſorrows were mo<g ref="char:EOLhyphen"/>derate in compariſon of his.</p>
+            <p>The Young <hi>Symphronius</hi> ſtill pind away, and the Phyſitians being igno<g ref="char:EOLhyphen"/>rant of the cauſe of it, durſt not make uſe of any Remedies. The Loving Father was yet the more un<g ref="char:EOLhyphen"/>fortunate, in that he was enforcd by another's Pulſe to feel for his own indiſpoſition. The Phyſitians ac<g ref="char:EOLhyphen"/>quainted
+<pb n="35" facs="tcp:42518:22"/>the Governer with all they had done, and avow'd that the Soul was more diſturb'd then the Bodie, that it exceeded their power, to applie Remedies to that, they expreſſed their ſorrow that they could not ſerve him, and proteſted that except his Son were better ſatisfied, it was impoſſible he ſhould ſtay long in the World.</p>
+            <p>You may give a gueſs at what <hi>Sym<g ref="char:EOLhyphen"/>phronius</hi> ſuffer'd at ſo unwelcome news as this, if you conſider a loving and indulgent Mother, that was a little before made a Widdow by the Death of her beloved Husband, at<g ref="char:EOLhyphen"/>tending the Bed of her only Son that ſhe now tenderlie dotes on, who juſt now in the Flower of his Age, and when ſhe had provided ſome Lovlie Ladie to make happie with her chaſt Embraces, lies engag'd in a cruel Feavor, which either over vehement Exerciſes or ſome Surfeit may, it's poſſible have produc'd; and juſt now
+<pb n="36" facs="tcp:42518:23"/>expiring his lateſt Breath, which his good Mother ſtands readie to receive, and catches at his Soul in it's excurſion into Eternitie. Thus ſtood the poor Old Gentleman, and 'tis poſſible ſom<g ref="char:EOLhyphen"/>thing more afflicted, in that he had ſomthing yet left to fear, whereas the unhappie Mother was freed from ſo troubleſome a Paſſion, and ſhe had loſt ſo much ſhe need not any longer fear the furie of her enrag'd Fortune.</p>
+            <p>But <hi>Symphronious</hi> rather then per<g ref="char:EOLhyphen"/>iſh was reſolv'd to do his utmoſt, to extort this ſecret from his Son, and thence learn the cauſe of their com<g ref="char:EOLhyphen"/>mon unhappineſs, and he usd ſuch addreſs, that the effect could not well be otherwiſe then what it was. He ſat him down on the Lover's Bed<g ref="char:EOLhyphen"/>ſide, and takeing him by the hand with the tears trickling down his reve<g ref="char:EOLhyphen"/>rend Cheeks. Muſt we Dye then, my Boy, ſaid he with a ſigh, have Heaven and you decreed it ſo? He
+<pb n="37" facs="tcp:42518:23"/>was going on, but a World of ſighs broke off his diſcourſe, and looking on his Son with all the markes of ſorrow and compaſſion, he heard him with a low voice thus Anſwer him: we muſt dye, <hi>Sir,</hi> when Heaven is pleas'd to call us hence. No, cruel Child, re<g ref="char:EOLhyphen"/>ply'd the ſad <hi>Symphronius</hi> haſtilie, we muſt not dye yet, the Gods will not have it ſo. I conjure thee, by all that Religion Eſteems obliging, by that Dutie thou ow'ſt me, by the conſi<g ref="char:EOLhyphen"/>deration of thy own Intereſts, as well as mine, diſcover this ſecret, that will undo us all, if it any longer be conceal'd. 'Tis baſe and cowardly, 'tis impious and irreligious to dye, when we can help our ſelves, and to creep into the Grave for fear of our Misfortunes.</p>
+            <p>He made a pauſe here, and looking attentive upon our poor Lover, ſeeing him in ſuſpence what he ought to do. Out with it for the ſake of the Gods purſu'd he; Publiſh that Enemy to thy
+<pb n="38" facs="tcp:42518:24"/>Repoſe, Baniſh it thence, and lodg it no longer in thy breaſt, to thy ut<g ref="char:EOLhyphen"/>ter ruin and my own. He ſpake this with all the earneſtneſs imaginable, and allmoſt frighted the young man to a confeſſion, that it's poſſible had never elſe been made. Ah! <hi>Sir,</hi> an<g ref="char:EOLhyphen"/>ſwered he, and ſigh'd, why ſhould you be thus urgent to know that, which when known you cannot re<g ref="char:EOLhyphen"/>medie. Thou knoweſt not what an afflicted Father, in his extreamitie, replyed <hi>Symphronius,</hi> with a great deal of precipitation, can do for a Son that he loves better than all the world. I can do any thing for my dear Child; my Love and Pitty ſhal render me allmoſt Omnipotent, and where my power ſhall prove de<g ref="char:EOLhyphen"/>ficient, the Gods ſhall ſecond me, thoſe Gods I have hitherto ſerved with ſuch Devotion. and that could never exert their power in a more glorious occaſion than this. Good <hi>Sir,</hi> omit your importunitie, anſwer<g ref="char:EOLhyphen"/>ed
+<pb n="39" facs="tcp:42518:24"/>then young <hi>Symphronius</hi> almoſt a<g ref="char:EOLhyphen"/>ſtoniſhed. No Child, replied the Father. I muſt never omit it till I know, what it is afflicts you ſo. Will you know then, ſaid the Lover very paſſionately. Know it at once, 'tis this; I Love. Is this that ſecret, cri<g ref="char:EOLhyphen"/>ed the Father, with a ſmile, that muſt be extorted from you with ſo much violence? Hath this coſt me ſo many tears<g ref="char:punc">▪</g> Hath this ſo much im<g ref="char:EOLhyphen"/>paird your health, and diſturb'd my contentment? Yes <hi>Sir,</hi> replyed the Lover, with a languiſhing tone, (for now he dare himſelf avow it) that love which I have preſerved in my breaſt in the midſt of all my ſorrows, hath been the cauſe of all: But this is ſuch a Love, as when you ſhall have learned it's Nature, and all it's circumſtances, you will undoubtedlie pronounce it the moſt fatal, &amp; me the moſt unfortunate Lover in the world. What ſome Coy Maid hath refuſed your addreſſes, ſaid the kind Father,
+<pb n="40" facs="tcp:42518:25"/>and you like a poor whining Lover muſt go and die fort? Is that all? Nay anſwer me. And is not that ſufficient <hi>Sir,</hi> replied the Lover. But that's not all. She hath ſcorn'd me indeed and forbid my addreſſes, but my ill For<g ref="char:EOLhyphen"/>tune hath led me further. She Loves, but not me; She ſaies ſhe's diſpoſed of, and that to a perſon that ſhe pre<g ref="char:EOLhyphen"/>fers to all the world, and Vows this Love ſhall, as ſhe pretends it ought to be, be Eternal: And what now could render me more unhappy than I am? I Love, and muſt do ſo while I breath. She Scorns me, and will do do ſo Eternally. Now having learnt this, <hi>Sir,</hi> trouble not your ſelf with him that is not only himſelf ſo unhap<g ref="char:EOLhyphen"/>py, but will infect all about him with his unhappineſs. No Son, anſwerd <hi>Symphronius,</hi> I muſt not yet leave you, my pietie ſhall yet find ſome meanes to make you fortunate. On<g ref="char:EOLhyphen"/>ly tell me who this fair Tyrant is, and then if there's no other way 'tis but
+<pb n="41" facs="tcp:42518:25"/>dying afterwards. 'Tis, <hi>Sir,</hi> you may eaſily gueſs her, the Handſo<g ref="char:EOLhyphen"/>meſt <hi>Lady</hi> in <hi>Rome,</hi> ſaid the <hi>Inama<g ref="char:EOLhyphen"/>rato</hi> ſhould I name the moſt glorious Light in the Heavens, you'd imme<g ref="char:EOLhyphen"/>diately ſay it was the Sun I meant, and when I ſhall tell you ſhe is the moſt beautiful <hi>Lady</hi> in <hi>Rome,</hi> you may eaſily imagine 'tis <hi>Agnes.</hi> The good Father was extreamly ſatisfi'd, when he knew ſhe was a Roman and no ignoble one, ſo that ſmilling, If <hi>Agnes</hi> ſaid he be the Perſon that en<g ref="char:EOLhyphen"/>ſlav'd you, you ſhall ſee e're long what I can do for you, and aſſure your ſelf I am not ſo much diſpleas'd at your Love, as the concealing of it.</p>
+            <p>Hereupon he went out immediate<g ref="char:EOLhyphen"/>ly towards the advancing his Deſign, and left our amorous Deſperado in as great a contentment, as his condition was then capable to admit.</p>
+            <p>He flatter'd himſelf with ſomthing like what we call hope, and though he knew no reaſon for it, and was
+<pb n="42" facs="tcp:42518:26"/>confident that <hi>Agnes</hi>'s reſolution was unalterable. Yet however he com<g ref="char:EOLhyphen"/>forted himſelf, ſince his Father was ſtirring in the buſineſs, and that in a place where his Intereſts might make him hope for all things from his help; where I ſhall leave him deluding him<g ref="char:EOLhyphen"/>ſelf with his pretty fancies, and ſee what <hi>Symphronius</hi> is now adoing.</p>
+            <p>You may very probablie conjecture what addreſs and induſtrie the Gover<g ref="char:EOLhyphen"/>nour made uſe of, in a Deſign that ſo nearlie concern'd him. He ſearch'd out for the <hi>Ladie's</hi> Father and com<g ref="char:EOLhyphen"/>municated his intentions to him, to make a perpetual amitie between their two Families. He made clear to him the advantages of ſuch a neceſſitude, and in a word did all he poſſibly could, to perſwade him to what he ſaid did very much conduce to their common happineſs. The diſcreet Father of our bleſſed Votary, entertain'd his propoſal with all the civility imagi<g ref="char:EOLhyphen"/>nable, and avowing to him, that it
+<pb n="43" facs="tcp:42518:26"/>would be the moſt welcome thing in the world to him, to ſee his Daughter ſo well diſposd of, aſſurd him he would uſe all his endeavours to per<g ref="char:EOLhyphen"/>ſwade her to it, and though ſhe ſeem'd to have a reſolution never to Marry; he doubted not but he might induce her to it. But if I cannot prevail by this Fatherly method of perſwaſion continu'd he, you muſt excuſe me, if I want the power to ſerve you, and content your ſelf with that hearty de<g ref="char:EOLhyphen"/>ſire, I ſhall ever preſerve, to favour both you and yours. And this, <hi>Sir,</hi> is my final reſolution, and from which all the Arguments in Nature ſhall ne<g ref="char:EOLhyphen"/>ver be able to diſſawde me, never to deſcend to any violent means; and force my dear <hi>Agnes</hi> to any Act, wherein her happineſs is ſo highly con<g ref="char:EOLhyphen"/>cern'd. The Governour was not ex<g ref="char:EOLhyphen"/>treamly ſatisfi'd, with theſe laſt words of the diſcreet Father, and the joy that he reſented at the firſt part of his diſcourſe, was very much abated by
+<pb n="44" facs="tcp:42518:27"/>what follow'd, conſidering what his Son had told of the obſtinacy, (for ſo he term'd it) of his beloved <hi>Agnes;</hi> Nevertheleſs not to betray the cauſe he was engag'd in, I cannot chuſe, ſaid he, after a ſmall ſilence, but con<g ref="char:EOLhyphen"/>demn that over ſcrupulous diſcretion of yours. Have you liv'd ſo long in the World, and are yet ignorant, that Maids muſt be forced to what they moſt deſire, and that their formal mo<g ref="char:EOLhyphen"/>deſty oftentimes makes them refuſe that, which they pine and whine for ever after? No, <hi>Symphronius,</hi> I've often heard that piece of Raillery, re<g ref="char:EOLhyphen"/>ply'd the other, but can eaſily diſtin<g ref="char:EOLhyphen"/>guiſh between that force you ſpeak of, and which you ſay will be ſo a<g ref="char:EOLhyphen"/>greeable, from that which hath pro<g ref="char:EOLhyphen"/>duc'd ſo diſmal effects in the World. Our Marriages ſtill repreſent the rape of the <hi>Sabines;</hi> but they do but re<g ref="char:EOLhyphen"/>preſent them; and there would not be ſo much jollity at our Nuptial So<g ref="char:EOLhyphen"/>lemnities, were the violence as real
+<pb n="45" facs="tcp:42518:27"/>as then it was, you may aſſure your ſelf, I ſhall oblige you with that per<g ref="char:EOLhyphen"/>ſonated cruelty, and will do all that a Father lawfully can, to favour the Roman Governour.</p>
+            <p>
+               <hi>Symphronius</hi> receivd his Civilities very Courteouſly, and after having once more conjur'd him to forward his Deſign, and proteſted it was the infallible means to make him his eter<g ref="char:EOLhyphen"/>nally; and it is more then probable, acquainted him with the danger his Son was in at that very Moment, and the cauſe of it; (which really ſeems to me, the moſt perſwaſive Argument that could be us'd in that conjun<g ref="char:EOLhyphen"/>ction;) he departed home-ward, as faſt as his Love could carry him, and coming to our languiſhing Lover, he cry'd out very chearfully, Courage, my <hi>Symphronius,</hi> hope ſtill. Thy <hi>Agnes</hi> muſt be thine, only live and recover, that thou mayſt be in a con<g ref="char:EOLhyphen"/>dition to receive her favours. He ſpake this with ſo much ſatisfaction,
+<pb n="46" facs="tcp:42518:28"/>that the Young Gentleman raiſing himſelf from his Pillow, as much as his weakneſs would permit him, and Reading his Deſtiny in the Air of his Father. Do not abuſe me, <hi>Sir,</hi> ſaid he, out of an Oppinion, that I fear I have too much reaſon to retain. Is it poſſible I ſhould obtain my wiſhes? Can <hi>Agnes</hi> then be flexible, and pitty one that her Divine Beauty has al<g ref="char:EOLhyphen"/>moſt drag'd to his Grave? Oh! anſwer me, <hi>Sir,</hi> but with Sincerity and uſe not any Artifice to appeaſe my Paſſi<g ref="char:EOLhyphen"/>on, that muſt have real bliſſes, or it will never ceaſe its cruelty. No, Child, anſwer'd the Loving Father, there is no need of Artifice, only con<g ref="char:EOLhyphen"/>fide in me, and minde thy recovery, &amp; thy <hi>Agnes</hi> ſhall be ſooner ready to re<g ref="char:EOLhyphen"/>ceive thy Careſſes; then thou to Em<g ref="char:EOLhyphen"/>brace, and thank her for her Kind<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Thus did the obliging <hi>Symphroni<g ref="char:EOLhyphen"/>us</hi> comfort the drooping Lover, who though he intreated him to tell him
+<pb n="47" facs="tcp:42518:28"/>his ſucceſs, could by no means per<g ref="char:EOLhyphen"/>ſwade him to it. Only his Father acquainted him with the greateſt part of the diſcourſe that he had with the Ladies Father, ſo much I mean as made for his purpoſe, but he did it, as it were unwillingly, or before he was aware, which made the abuſd Lover believe his affairs were in a bet<g ref="char:EOLhyphen"/>ter condition, then at firſt, he could hope they would ever come to. So that relying on his Father, and re<g ref="char:EOLhyphen"/>commending his Love to him, and deſiring him never to uſe any vio<g ref="char:EOLhyphen"/>lence againſt the Fair <hi>Agnes,</hi> he de<g ref="char:EOLhyphen"/>ſiſted any longer to importune him, And the old <hi>Symphronius</hi> not long af<g ref="char:EOLhyphen"/>ter left him to ruminate on his ima<g ref="char:EOLhyphen"/>ginarie pleaſures, and expected with all the impatience in the world, what anſwer he ſhould receive from St. <hi>Ag<g ref="char:EOLhyphen"/>nes</hi>'s Father; who was really no ill agent in the buiſneſs, but preſs'd his Fair Daughter to a Marriage, that he told her was very advantagious to
+<pb n="48" facs="tcp:42518:29"/>her. But meeting ſo uncommon a re<g ref="char:EOLhyphen"/>pugnance in her, and being at laſt ac<g ref="char:EOLhyphen"/>quainted with that ſacred vow ſhe had made of perpetual Virginity, he not only left off his perſwaſions, which he knew would prove uſeleſs, but al<g ref="char:EOLhyphen"/>ſo encourag'd her to keep her Vow, notwithſtanding all the violence of <hi>Symphronius.</hi> He promis'd her all the help, he could render her, and flat<g ref="char:EOLhyphen"/>terd himſelf into a fond Opinion, that he being of a Noble Family, and of no ſmall Intereſt in the City; the Governour durſt not aſſault either him or his. But the Sequel baffled his preſumption, and hath left us a dread<g ref="char:EOLhyphen"/>ful Example, of what a man is capa<g ref="char:EOLhyphen"/>ble of performing; when hurri'd on by the ſudden Violence of ſome do<g ref="char:EOLhyphen"/>mineering Paſſion. But I muſt not prevent my Story.</p>
+            <p>The two Fathers not long after had a meeting, which doubtleſs was infi<g ref="char:EOLhyphen"/>nitely pleaſing. At the firſt indeed their diſcourſe was very obliging,
+<pb n="49" facs="tcp:42518:29"/>but their common civilities once paſt over, where <hi>Symphronius</hi> urg'd the o<g ref="char:EOLhyphen"/>ther to ſome Poſitive anſwer, the brave <hi>Roman</hi> after ſome ſuch ſhort preamble, as we commonly uſher in ill news withal, told him plainly his Daughter's repugnance to the Propoſition, not out of any diſre<g ref="char:EOLhyphen"/>ſpect to the Young <hi>Symphronius:</hi> whom all the City for his many excel<g ref="char:EOLhyphen"/>lent accompliſhments both Lov'd and admir'd; but out of a moſt fix'd deter<g ref="char:EOLhyphen"/>mination, never to alter her Condi<g ref="char:EOLhyphen"/>tion. And would you reſt ſatisfi'd with ſuch an anſwer; reply'd <hi>Sym<g ref="char:EOLhyphen"/>phronius.</hi> How unkind are you to a perſon, that you were pleas'd once to call Friend, and to one that al<g ref="char:EOLhyphen"/>waies moſt dearly Lov'd you? This was only a formal Piece of Modeſty: why would you not uſe that power, that Heaven and Nature have furniſh<g ref="char:EOLhyphen"/>ed you withal? Why would you not treat her as a Daughter? She is all o<g ref="char:EOLhyphen"/>bedience, and a Father might per<g ref="char:EOLhyphen"/>ſwade
+<pb n="50" facs="tcp:42518:30"/>her to any thing. No, reply'd the other with ſome precipitation, I will never abuſe ſo much Innocence, nor force her to any thing that would meet the moſt cruel of Deaths to pre<g ref="char:EOLhyphen"/>ſerve her Father. I promis'd you to do what I could by ſoftneſs and per<g ref="char:EOLhyphen"/>ſwaſion, and Heaven knows I have exactly performd it, but to wrong ſo ſweet a Daughter by forcing her Inclinations, and ſo conſequently to engage her in an Eternal ſeries of Mi<g ref="char:EOLhyphen"/>ſery, is that, which I ſhall never en<g ref="char:EOLhyphen"/>dure to put in practiſe againſt my dear <hi>Agnes.</hi> Cruel Friend, is this all you will do for me in this Extre<g ref="char:EOLhyphen"/>mity? Anſwerd the Governour and ſigh'd; are thoſe all your endeavours to retreive my dear Boy from the Grave? For Heavens ſake deſiſt not at the firſt repulſe. She may at laſt alter her reſolution, and you may ſave my dear <hi>Symphronius,</hi> and ren<g ref="char:EOLhyphen"/>der me the moſt happy, as the moſt oblig'd, man in the World. Pro<g ref="char:EOLhyphen"/>poſe
+<pb n="51" facs="tcp:42518:30"/>not ſuch impoſſibilities for a manifeſt of my Friend-ſhip, cry'd out the good Father of St. <hi>Agnes,</hi> and let not that amity I have for you, Ba<g ref="char:EOLhyphen"/>niſh the Sentiments of Nature; let me continue a Father as well as a Friend, and have ſome conſideration of my dear Child , my good <hi>Agnes,</hi> as well as of the Noble <hi>Symphronius.</hi>
+            </p>
+            <p>Theſe things are not ſo incompati<g ref="char:EOLhyphen"/>ble as you imagine, repli'd the Go<g ref="char:EOLhyphen"/>vernour; 'tis as much for her advan<g ref="char:EOLhyphen"/>tage as my Sons, and it will be your duty to diſpoſe of your Daughter for the beſt, as well as an Obligation to ſuccur a dying Son, and a diſtreſſed Father. Her reſolution is but too juſt to be ever removed, ſaid the other, and it would be too plain an injuſtice in me to oppoſe it; And ſince you will not otherwiſe be ſatisfid be plea<g ref="char:EOLhyphen"/>ſed to know; She hath already got her a Husband, and ſuch a one, as I cannot refuſe. His worth, his Riches, his Virtues, his moſt No<g ref="char:EOLhyphen"/>ble
+<pb n="52" facs="tcp:42518:31"/>Love and Affection, are too con<g ref="char:EOLhyphen"/>ſiderable not to make him receiv'd. And I muſt avow to you, that my <hi>Agnes</hi> ſcarce Loves him with a grea<g ref="char:EOLhyphen"/>ter Paſſion than my ſelf. Fals un<g ref="char:EOLhyphen"/>kind Man ſaid <hi>Symphronius;</hi> And who can this worthy Perſon be, that you deſpiſe the Son of the <hi>Roman</hi> Go<g ref="char:EOLhyphen"/>vernour for his ſake? Whoever he be, anſwer'd the other very ſharply, I do, and muſt prefer him to all the world. Nor ſhall my Love of <hi>Sym<g ref="char:EOLhyphen"/>phronius,</hi> nor all his menaces make me do any otherwiſe.</p>
+            <p>They parted immediately upon this, and though the diſcreet Father of the bleſſed St. <hi>Agnes,</hi> had done nothing but upon Mature deliberati<g ref="char:EOLhyphen"/>on, he half repented of what he had ſaid, and wiſh'd his Duty would have ſuffered himſelf to ſpeak ſomething more agreeable. But then remem<g ref="char:EOLhyphen"/>bring his. Dear Saviour, his Holy Daughters Pious Proteſtations, and that Noble perſwaſion, that it was
+<pb n="53" facs="tcp:42518:31"/>better to have a Daughter a Holy Virgin, then to ſee her in all the pomp in the World. He immediate<g ref="char:EOLhyphen"/>ly repented again, of his eaſy and in<g ref="char:EOLhyphen"/>conſiderate repentance it ſelf, and more fully reſolved to further his Daughters Piety. But <hi>Symphronius</hi> was not ſo much at reſt: How many dreadful thoughts had he then in his Breaſt, what Deſigns was he contri<g ref="char:EOLhyphen"/>ving againſt the fair <hi>Agnes</hi> and her good Father: How often did he damn that Rival, that ſtood in his way be<g ref="char:EOLhyphen"/>tween him, and happines; But at laſt after many abortive contrivances, and a Thouſand Menaces that came to nothing, he began to recollect him<g ref="char:EOLhyphen"/>ſelf, and conſidering what an infinite diſpleaſure it would be to his Son, to hear ſuch unwelcome news as this, he reſolved to conceal it, and make him believe his Love Affairs were in a very good poſture. And to this end, putting on a good Face, and ſuppreſ<g ref="char:EOLhyphen"/>ſing that ſorrow which was at preſent
+<pb n="54" facs="tcp:42518:32"/>but too viſible all about him, and looking as Merrily as he poſſibly could, he came to his Son, and aſſu<g ref="char:EOLhyphen"/>red him by a very Pious Impoſture, that his Miſtriſſe's Rigour, and Mai<g ref="char:EOLhyphen"/>den modeſty was at laſt conquered; that ſo ſoon as he was recovered, he might take Poſſeſſion of his own cru<g ref="char:EOLhyphen"/>el fair one.</p>
+            <p>The Young Man could not pre<g ref="char:EOLhyphen"/>ſently believe him, and the greatneſs of his happineſs made him ſuſpect the truth of it; but being it was his Father that told him ſo, (that Loving and Dear Father, that had ſo tender<g ref="char:EOLhyphen"/>ly doted on him, ever ſince the firſt Minute of his Life, and had given ſuch pregnant Proofs of his incompa<g ref="char:EOLhyphen"/>rable Affection ſo lately;) he eſteem<g ref="char:EOLhyphen"/>ed it impious to ſuſpect him of any deceit, and gave a blind conſent to all he ſaid, and with tears of joy in his languiſhing eies, he tendered his humble thanks, and duty Ten Thou<g ref="char:EOLhyphen"/>ſand times. Juſt ſo ſome Merchant's
+<pb n="55" facs="tcp:42518:32"/>Darling dearly careſſes his Loving Father, when he is after the abſence of ſome Years, returned from a dan<g ref="char:EOLhyphen"/>gerous Voyage. When the Boy and his Mother are in a pretty conteſt, which ſhall beſt expreſs an unfeigned Joy, and Loving Reſentments.</p>
+            <p>If ever the quiet of the Soul did extreamly advance the help of the body, it was in our lover at that time, and thoſe two familiar Neigh<g ref="char:EOLhyphen"/>bours, the Soul and the Bodie, did ſo equally ſhare each others Joyes, as well as Sorrows, that as ſoon as the Soul return'd to it's former tranquili<g ref="char:EOLhyphen"/>tie, the humours reaſſumed their tem<g ref="char:EOLhyphen"/>perament, and the whole Bodie in<g ref="char:EOLhyphen"/>ſenſiblie recover'd it's ſtrength and vigour. But his Malancholy had ſo weakned him, that he vvas confined to his Chamber for ſome time, vvhere vve ſhall leave him pleaſing himſelf vvith God knovvs vvhat thoughts, and purſue his careful Father, vvho is novv employ'd to compaſs his deſign,
+<pb n="56" facs="tcp:42518:33"/>and make good his vvord to his Son at his recovery.</p>
+            <p>To this end, he made it his firſt buiſneſs to hunt out this unknovvn Rival, or rather this too happie poſ<g ref="char:EOLhyphen"/>ſeſſor of ſo fair a Treaſure. He had ſpent ſome time to no purpoſe, when at laſt by accident he met a friend of his, vvho enquiring after the cauſe of his unuſual Malancholy, and hav<g ref="char:EOLhyphen"/>ing heard at laſt the vvhole Storie, ſurprized him vvith the ſtrangeſt nevvs imaginable. 'Tis no vvonder, <hi>Sir,</hi> ſaid he, if your Intelligence hath faild you; this is no ſuch Rival as you expected, and to clear what I tell you, be aſſured from me, She is one of the Sect vve call <hi>Christians,</hi> and being beſotted vvith that fooliſh and ridiculous perſvvaſion, ſhe boaſts that <hi>Jeſus,</hi> their great Prophet, or their Divinitie, or vvhatever he be, that they vvorſhip, that <hi>Jeſuſ,</hi> that they ſay vvas Crucyfied, and tell us a hundred ſtrange Stories of, is her Husband,
+<pb n="57" facs="tcp:42518:33"/>that ſhe hath Vovved her Virginitie to him, as many more of them do; and this Vow, ſhe ſaies, ſheis reſolv<g ref="char:EOLhyphen"/>ed never to violate. Now, <hi>Sir,</hi> if you can draw any thing hence for your advantage, I dare witneſs what I ſay, and will embrace this opportu<g ref="char:EOLhyphen"/>nitie, as I ſhall all other, wherein I may ſerve you moſt willingly.</p>
+            <p>The Governour could ſcarce be<g ref="char:EOLhyphen"/>lieve this at firſt hearing, but being confirmed by Oaths, and Proteſta<g ref="char:EOLhyphen"/>tions, and thoſe too the moſt Sacred that their Religion could furniſh them with, he began to think, that ſome plot might be built upon this, and the thing being not verie difficult, be re<g ref="char:EOLhyphen"/>ſolved on it immediatelie; and thank<g ref="char:EOLhyphen"/>ing his Friend for his Intelligence, and conjuring him by their former Friend<g ref="char:EOLhyphen"/>ſhip, and what ever elſe he thought was perſwaſive, to keep all ſecret, and to be with him on the morrow ſomthing earlie, he departed, and laid all in readineſs for his proceed<g ref="char:EOLhyphen"/>ing
+<pb n="58" facs="tcp:42518:34"/>But he took all the care in the world that Young <hi>Symphronius</hi> ſhould not know of it, who not dreaming of any thing elſe but his Miſtriſſe's fa<g ref="char:EOLhyphen"/>vour, their Nuptials, and all that Train of Delights he might ex<g ref="char:EOLhyphen"/>pect from thence, was enjoying his imaginarie pleaſures that never muſt have any other. Fond Men, how do we purſue we know not what, and place our ſelves upon a Precipeice? Little thought he of a deſtroying An<g ref="char:EOLhyphen"/>gel, or that Calamitie that hung o<g ref="char:EOLhyphen"/>ver his head.</p>
+            <p>The Governour at the time of Ju<g ref="char:EOLhyphen"/>dicature diſpatch'd his Officers to bring the Holie Votary to his Tri<g ref="char:EOLhyphen"/>bunal, who, when they came to her Fathers houſe, and demanded her in the Name of the Governour, would not perhaps ſo eaſilie have got her thence, had not the Bleſſed Martyr her ſelf been conſenting to it. Her Father was providing for Reſiſtance, and imagining what was the reaſon
+<pb n="59" facs="tcp:42518:34"/>ſhe was ſent for, he could not eaſilie be induced to part with his Pious, O<g ref="char:EOLhyphen"/>bedient Child. The Mothers ſenti<g ref="char:EOLhyphen"/>ments were not much diffetent from his. She wept, ſhe lift up her eies to Heaven, and with a thouſand pierc<g ref="char:EOLhyphen"/>ing Ejaculations, invok'd the Holie <hi>Jeſus</hi> to her reſcue; ſhe recommen<g ref="char:EOLhyphen"/>ded her Child no longer hers, but his Spouſe, into his Sacred protection; nor did her Devotion hinder her En<g ref="char:EOLhyphen"/>deavours. It was in the midſt of theſe preparations that the Holie Saint was acquainted with the Officers de<g ref="char:EOLhyphen"/>mands, and perſwaded her ſelf that Chriſtianity was the Crime ſhe was to anſwer for, and then kneeling down moſt devoutlie, and directing her fair eies to Heaven. The hour is com<g ref="char:EOLhyphen"/>ing, Sweet <hi>Jeſu</hi> (ſhe cri'd out) when my Soul ſhall take it's flight to Thee and Glorie. Lord preſerve thy ſer<g ref="char:EOLhyphen"/>vent in this my laſt encounter againſt our common Enemies. Continue thy Gracious Goodneſs, let me not faint
+<pb n="60" facs="tcp:42518:35"/>in my laſt effort of Piety Preſerve me to thy ſelf ſweet <hi>Jeſu,</hi> I am thine, my Vow and thy Goodneſs have made me ſo; O do not deſert me in my laſt Extremity, but be pleaſed to lead me from one Crown to another, from that of Martyrdom to that of thy Eternal Glory. What a ſweet Joy and pleaſure did the good <hi>Lady</hi> then reſent; what an agreeable ear<g ref="char:EOLhyphen"/>neſt did ſhe then receive of a bleſſed Eternity, in ſpite of her Body, that clog to her ardent Soul, that hung on it's Wings when it took any brave flight towards Heaven: In ſpite of it, and all its Paſſions, ſhe was almoſt raviſhed in to Happineſs, and ſaw her Bleſſed Lord even before her Matyr<g ref="char:EOLhyphen"/>dom.</p>
+            <p>But ſhe ſtaid not long here, before ſhe went to meet her ruine, as others would interpret it, but as her Pious Soul thought, her way to Glory. She found her Father in the midſt of his Preparations, and looking upon him
+<pb n="61" facs="tcp:42518:35"/>with a Face as gay, an Air as brisk and lively as ever ſhe had in her Life. Stay dear <hi>Sir,</hi> ſaid ſhe, ſtay, and be pleaſed to remember that we call our ſelves Chriſtians. This is not that reſiſtance that our bleſſed Lord hath taught us both by his word and his Example. He that could ſummon all the Angels in the Heaven, and make all the World aſſiſt him, died quietlie, and ſuffered tamelie the rage and fury of Men and Divels, He did ſo good <hi>sir,</hi> and let us for Gods ſake do no otherwiſe.</p>
+            <p>The Father was very much ſurpri<g ref="char:EOLhyphen"/>ſed at ſo charming a perſwaſion, and was in a doubtful ſuſpence how to be<g ref="char:EOLhyphen"/>have himſelf, when his bleſſed Daugh<g ref="char:EOLhyphen"/>ter purſued her petition. Ah! can you doubt, <hi>Sir,</hi> whether you ought to follow ſo glorious an example. Let us go and ſtem the fury of our Adver<g ref="char:EOLhyphen"/>ſaries; but let our Tears and Praiers be the only Arms againſt them. Let me go, <hi>Sir,</hi> and be more nearly united
+<pb n="62" facs="tcp:42518:36"/>to my dear Redeemer and let me teſti<g ref="char:EOLhyphen"/>fie to all the World, that neither Love nor Fury can ſeparate me from ſo good a Maſter: wilt thou go then dear Child, and leave thy wretched Father, replied he with a languiſhing Accent. Yes. <hi>Sir,</hi> I will fly to my ſweet Saviour, cried out St. <hi>Agnes.</hi> I will perform his holy pleaſure with all alacrity, I have hitherto waited with patience for the happy hour, wherein he would be pleaſed to take me out of this miſerable Life; but ſince the time is come, I will not by an un-Chriſtian reſiſtance, ſtop up my paſſage to Glory. 'Tis my Intereſt, as well as my Duty, that invites me to it, and your extravagant Love would be infinitely prejudicious to the, ſhould it any longer oppoſe thoſe Superiours, that God hath command<g ref="char:EOLhyphen"/>ed us to obey. I muſt conſent then, I ſee, ſaid her Father throwing down his Arms, with an action wholy diſ<g ref="char:EOLhyphen"/>conſolate, and taking my laſt fare<g ref="char:EOLhyphen"/>well
+<pb n="63" facs="tcp:42518:36"/>of my Dear, my Obedient, my Chriſtian <hi>Agnes.</hi> Go then to that Glory, which thy Lord hath provi<g ref="char:EOLhyphen"/>ded for thee, and leave thy Parents here in tears, while thou art advan'd to a place, where all tears ſhall be wiped from our eies. I ſhould never have done ſhould I tell all the paſſio<g ref="char:EOLhyphen"/>nate and pious diſcourſes of the good Mother to her bleſſed Child, who hanging about her fair Neck, took a Thouſand Farewels, and would ne<g ref="char:EOLhyphen"/>ver have left her, had not the Officers been urgent to haſten her delivery. At laſt they parted, but with no leſs pain and trouble then ever Soul and Bodie did in the Rigour of Youth, af<g ref="char:EOLhyphen"/>ter the familiour acquaintance of Thirtie Years. Her Father would accompanie her, though ſhe expreſ<g ref="char:EOLhyphen"/>ſed a great deal of repugnance to it, fearing leaſt his immoderate Love might hurrie him on to ſome Vio<g ref="char:EOLhyphen"/>lence, and make him endeavour to retard her Martyrdom.</p>
+            <pb n="64" facs="tcp:42518:37"/>
+            <p>But go he did, and led his fair Sa<g ref="char:EOLhyphen"/>crifice to her Stage of Glory, where the Governour ſat expecting her, and according to the uſual formalitie, (which was but too too common in thoſe daies; that is about the Tenth Perſecution) demanding what ſhe was whether a Chriſtian or otherwiſe? She confidence avowed it, and that with as much courage and aſſurance, as if ſhe had expected the greateſt honour in the world, from her Confeſſion; <hi>Symphronius</hi> ſeeing her Noble Confi<g ref="char:EOLhyphen"/>dence, began to ſhew her the danger of her obſtinacy, and with a malici<g ref="char:EOLhyphen"/>ous kind of kindneſs, adviſed her to de<g ref="char:EOLhyphen"/>ſert it. He promiſed her ſhe ſhould be pardoned her crime, did ſhe not continue in it, and allured her to this Apoſtaſie by a magnificent promiſe of honours and preferments, and ſpoke really ſo obliginglie to the fair Mar<g ref="char:EOLhyphen"/>tyr, that any Soul but hers, which yet had not arived to her Thirteenth Year, would have been perverted.
+<pb n="65" facs="tcp:42518:37"/>But ſhe brave <hi>Lady</hi> kept her undaun<g ref="char:EOLhyphen"/>ted aſſurance, ſhe firmlie ſtood the Shock of all his Inſinuations, &amp; like a Chriſtian <hi>Heroine</hi> looking upon her Judge with eies that had prevented her words, ſhe made him ſee but too viſibly the effect of his perſwaſions. No Governour, cried ſhe out, omit thy promiſes, unleſs thy Liberalitie could Enrich me with better things, then thoſe thou mention'ſt. My God hath prepared a more Glorious Poſ<g ref="char:EOLhyphen"/>ſeſſion for his Servants, and though my Chriſtianitie muſt expoſe me to Death, with all it's terrible appen<g ref="char:EOLhyphen"/>dages, know, I will ſtill preſerve it, and when I have by all the tortures thou canſt Plague me with, ended my miſerable Life, to be Tranſlated to a better; I will ſtill hug my per<g ref="char:EOLhyphen"/>ſwaſion, and bleſs my Holy <hi>Jeſus,</hi> that for ſo ſmall a ſuffering is pleaſed to place me in an Eternal State of Glory; I'le expire my Breath though it be in the midſt of Flames and Racks,
+<pb n="66" facs="tcp:42518:38"/>and all thoſe Inſtruments of Cruelty, that your Ingenious Villanie can poſſibly invent, with an incomparable joy, and a tranſcendent content<g ref="char:EOLhyphen"/>ment; ſince I muſt die for my deareſt Lord, who was graciouſly pleaſed to do more then die for me; Yes Sweet Saviour, I will, if it be thy Holie plea<g ref="char:EOLhyphen"/>ſure, and manifeſt to thoſe Infidels, that all their Perſecutions ſhall never divide thy Church and Thee. And ſince that if I lived with Thee, in my death I will never be divided.</p>
+            <p>She ſaid this, with ſo Heroick a boldneſs, that the people could not chuſe but admire her, and wiſh with all their Hearts ſhe were diſingag'd of that bewitching peice of Follie (for ſo they called Chriſtianity) that ex<g ref="char:EOLhyphen"/>poſed her to ſo manifeſt a danger. But the Governour had very differ<g ref="char:EOLhyphen"/>ent thoughts of her, and called her Brave boldneſs, Sawcineſs, and Ob<g ref="char:EOLhyphen"/>ſtinacy, and ſaid her Chriſtianity had made her Beſide her ſelf, and ſince
+<pb n="67" facs="tcp:42518:38"/>his Promiſes proved ineffectual, he reſolved to take a rougher courſe with her, and ſee what Menaces and Threats would do. He eſteemed all her Proteſtations as vain, idle Rho<g ref="char:EOLhyphen"/>domantado's, which a few harſh words, and the very Sight of Tor<g ref="char:EOLhyphen"/>tures might force her to forſake. To which purpoſe, we ſhall, cried he, in a tranſport of Fury, ſee whether you will preſerve this raſhneſs in the midſt of puniſhments, and what a firm conſtancy you'l preſent us with, when the Flames are about your ears. Know therefore my young Stoick of the long Robe, except you imme<g ref="char:EOLhyphen"/>diately Sacrifice to the Gods, and Abjure your Foppery, that hath trou<g ref="char:EOLhyphen"/>bled the world for almoſt 300 years, I will proceed againſt you according to the courſe of Juſtice, and revenge my ſelf and the Gods on our common Enemie. Do, cruel man, replyed the Fair <hi>Agnes</hi> very vehemently, abandon thy ſelf to thy Furie, provide
+<pb n="68" facs="tcp:42518:39"/>more and more exquiſite Utenſils of Crueltie, then have ever yet been invented. I will ſuffer all thou can'ſt inflict, and in the midſt of all, I will contemn thy Gods as much as now I do. Thou may'ſt rob me of this poor &amp; tranſitory life, which is a thing I never valued nor eſteemed, but thou ſhalt then, though unwillingly, advance me to an Eternal one. Thou may'ſt ſepe<g ref="char:EOLhyphen"/>rate this Soul from it's Bodie, but thou ſhalt joyn it then to it's Dear Maſter. In a word, what ever thou can'ſt do to me ſhall never deprive me of my Sourſe of Comforts. I will ſtill hold faſt my Belief of my Savi<g ref="char:EOLhyphen"/>our, while I keep my breath, and when I have parted with that ſervant of life, and life together, I will ſtill continue what I am, and glorie to be called a Chriſtian.</p>
+            <p>The Governour was aſtoniſhed to find ſo much courage in a Woman. He could not chuſe, maugre all his re<g ref="char:EOLhyphen"/>ſiſtance, but admire her: He began
+<pb n="69" facs="tcp:42518:39"/>his heart to diſeſteem the <hi>Regulus</hi>'s <hi>Cato</hi>'s, <hi>Rutullus,</hi> and <hi>Socrates,</hi> and thoſe Prodigies of conſtancy, that the Ancients boaſted of, to ſee a feeble Woman Rival them in their Glories, and be readie to march to the Flames, with a truer contentment, then ever <hi>Socrates</hi> drank up his Poyſon, or <hi>Cato</hi> ſtab'd himſelf. He then began to e<g ref="char:EOLhyphen"/>ſteem her too, and to wiſh he could perſwade her to ſave her Life at the expence of her Chriſtianitie; and conſidering his Sons happineſs was very much concerned in her ſafety, he could not abſolutely reſolve on her Death, without the greateſt re<g ref="char:EOLhyphen"/>gret that can be imagin'd. Beſides the promiſe he had made his Son con<g ref="char:EOLhyphen"/>founded him, and the bad ſucceſs of his Intrigue; for he verily believed if he could but once make her ceaſe to be a Chriſtian, ſhe would diſpenſe with her vow, and immediately con<g ref="char:EOLhyphen"/>ſent to his deſires. He thereupon aſſumed a Milder Countenance, and
+<pb n="70" facs="tcp:42518:40"/>baniſhing that fiercneſs he had a little before, he deſcends again to his Mild<g ref="char:EOLhyphen"/>er way of perſwaſion. Come you muſt live, ſaid he, I cannot have the heart to doom ſo Brave a Spirit to the Flames. I will ſave you, in de<g ref="char:EOLhyphen"/>ſpite of you, and muſt have you leave your fooliſh perſwaſion, that tells you of impoſſibilities to come, and thereupon engages you to deny your ſelf all the pleaſures of this preſent life. I will furniſh you with more certain delights, and bring you to a love of that life, which now you ſo little care for. Do no more blaſ<g ref="char:EOLhyphen"/>pheme our Gods, though they are merciful, they will at laſt revenge theſe injuries; but come and Wor<g ref="char:EOLhyphen"/>ſhip them, and let your Repentance ſhew your ſorrow for your impieties.</p>
+            <p>Peace unjuſt Governour, cried out the Saint, with indignation, and do no more ſtrive to divorce me from my happineſs, my Dear Saviour. Thy ſly inſinuations ſhall prove as uſeleſs
+<pb n="71" facs="tcp:42518:40"/>as thy menaces, and both together, with all thou can'ſt do beſide, ſhall never induce me to abjure my Chri<g ref="char:EOLhyphen"/>ſtianitie, or to embrace a Religion that bids me worſhip Stocks, and pay Devotion to the work of Artiſts. I defie the Anger of thy Gods, go fright poor Ignorant Superſtitious Fools with <hi>Jupiter</hi>'s <hi>Bolt,</hi> and <hi>Neptune's Tri<g ref="char:EOLhyphen"/>dent;</hi> I fear them leſs then thee, and dare blaſpheme them with far greater ſecuritie, than abuſe the weakeſt of thy people. Let thy injured Divini<g ref="char:EOLhyphen"/>ties vindicate their honour, with all the power they can. I am protected, and dare bid defiance to them and their Idolators. She ſpoke this with all the vehemence ſhe could, and ſtrook a ſecret terrour into all that heard her, who ſtopping their ears, and ſtamping on the ground, to ſig<g ref="char:EOLhyphen"/>nifie they deteſted her Blaſphemies, cry'd out, <hi>Away with her to the Stake, and let her puniſhment expiate her Im<g ref="char:EOLhyphen"/>pietie, lest the Gods plague us with ſome
+<pb n="72" facs="tcp:42518:41"/>ſignal Judgment, if we let ſuch wicked<g ref="char:EOLhyphen"/>neſs goe unpuniſhed.</hi>
+            </p>
+            <p>
+               <hi>Symphronius</hi> was very much diſ<g ref="char:EOLhyphen"/>pleaſed to ſee the people in ſuch a diſturbance, and to ſee himſelf almoſt enforced to deliver her to the Execu<g ref="char:EOLhyphen"/>tioner. But cauſing a ſilence to be made. <hi>Romans,</hi> ſaid he, content your ſelves, you ſhall either ſee her die, or recant her blaſphemies. The Gods will be better ſatisfied with her Re<g ref="char:EOLhyphen"/>pentance, then her puniſhment, and ſince upon better conſideration ſhe may alter her reſolution, ſhe ſhall be conveighed hence to priſon, and here to morrow we ſhall expect her final determination, and thence proceed ei<g ref="char:EOLhyphen"/>ther in her favour, or to her prejudice. The Propoſition pleaſed the people, and they expreſſed their approbation by their Acclamations, and ſolemn Euge's. Whereupon <hi>Symphronius</hi> ad<g ref="char:EOLhyphen"/>dreſſing himſelf to the Saint. We give you this night to conſider better on it, and hope your reaſon will per<g ref="char:EOLhyphen"/>ſwade
+<pb n="73" facs="tcp:42518:41"/>you rather to accept your life with Honours and Preferments, than a Death as Painful as Ignominious. That ſhameful Death, replied the ho<g ref="char:EOLhyphen"/>lie Votary very brisklie, I prefer to all thou can'ſt beſtow upon me. You need not delay your cruelties, you have my Anſwer, which the fear of Ten Thouſand Deaths ſhall never al<g ref="char:EOLhyphen"/>ter. She was proceeding, when the Governour gave order to have her ta<g ref="char:EOLhyphen"/>ken away to Priſon. She went with<g ref="char:EOLhyphen"/>out the leaſt repugnance, and conſi<g ref="char:EOLhyphen"/>dered her Priſon as the Preludium to her Martyrdom.</p>
+            <p>It will not be difficult to imagine how her good Father reſented all this. He was going to ſpeak in her defence a Hundred times, but conſi<g ref="char:EOLhyphen"/>dering it would be only an impru<g ref="char:EOLhyphen"/>dence to involve himſelf in her Cala<g ref="char:EOLhyphen"/>mitie without any hopes of helping her, he ſtood aſtoniſhed; and in the midſt of all his ſorrows, a ſecret joy would often ſurpriſe him, to ſee his
+<pb n="74" facs="tcp:42518:42"/>Daughters pious aſſurance, which he could not chuſe but applaud and admire, though he knew it would rob him infalliblie of what was deareſt to him in the world; his deareſt <hi>Agnes.</hi> In this Condition he ſtood, when the Virgin was carried away, and though he was reſolved to follow her, he could not go a ſtep in her per<g ref="char:EOLhyphen"/>ſuit, and then it was when <hi>Symphroni<g ref="char:EOLhyphen"/>us</hi> chanced to ſee him, who coming to him ſaid very mildly. Go, <hi>Sir,</hi> and perſwade your Daughter not to throw away her Life. <hi>My Symphronius</hi> would be a better Companion then the Stake, and a Nuptial Torch, then a Funeral Flame. He ſaid no more, but im<g ref="char:EOLhyphen"/>mediately left him leaſt he ſhould an<g ref="char:EOLhyphen"/>ſwer unpleaſantly as indeed with rea<g ref="char:EOLhyphen"/>ſon he could expect no other.</p>
+            <p>He might have ſpared himſelf the trouble of this admonition, and the Loving Father needed not much per<g ref="char:EOLhyphen"/>ſwaſion, to do what his Love com<g ref="char:EOLhyphen"/>pelled him to. He preſenly follow<g ref="char:EOLhyphen"/>ed
+<pb n="75" facs="tcp:42518:42"/>the Young <hi>Lady</hi> to her Priſon, and I ſhould give my ſelf an unneceſſary trouble, to tell you all their Holy Communication. Her Mother was not long abſent, who being inform<g ref="char:EOLhyphen"/>ed of all that was paſt, ran to the Pri<g ref="char:EOLhyphen"/>ſon. Never was ſuch dear and ob<g ref="char:EOLhyphen"/>liging Diſcourſes, ſuch Pious Conſo<g ref="char:EOLhyphen"/>lations, ſuch Affectionate Tears in the World, as then that Priſon was Conſcious of. And I ſhould never Have done, ſhould I inſiſt on the par<g ref="char:EOLhyphen"/>ticulars. It ſhall therefore ſuffice to ſay, that at laſt her Parents withdrew, To leave her to her Devotions, which 'tis poſſible, no other conſideration could have induced them to. What Pious Raptures had our Good <hi>Agnes,</hi> when ſhe conſidered her approaching Martyrdom. Ah! good God, would ſhe ſomtimes ſay, 'tis in vain they ex<g ref="char:EOLhyphen"/>pect I ſhould renounce my right in thee; they ſhall never force me to diſclaim the Intereſt I have in thee. The more I conſider thy incompara<g ref="char:EOLhyphen"/>ble
+<pb n="76" facs="tcp:42518:43"/>goodneſs, the more I am con<g ref="char:EOLhyphen"/>firmed in my holie reſolutions, to Live and Dye a Chriſtian; I did not imbrace Chriſtianitie to deſert it ſhamefullie. No Dear Lord, I will never ſtain my former Life with ſo black an Apoſtaſie. I will not, ſweet <hi>Jeſu,</hi> by thy gracious aſſiſtance, and Fleſh and Blood, Durſt and Aſhes as I am, by thy help I will carrie away the Victorie from the conſpiring fury of Hell and Earth. Then got long after in a deep Reverie would ſhe be almoſt tranſla ted into Glory, and inticipate that Heaven ſhe was going to poſſeſs.</p>
+            <pb n="77" facs="tcp:42518:43"/>
+            <lg>
+               <head>A Soliloquie.</head>
+               <l>FOnd man that doſt with Fetters bind the Saint</l>
+               <l>And keep fair <hi>Agnes</hi> in a forc'd conſtraint,</l>
+               <l>How thou in vain expend'ſt thy cruelty,</l>
+               <l>And throw'ſt away thy rage? She ſtill is free,</l>
+               <l>Free as brisk Lightning from it's Mother Cloud</l>
+               <l>Broke looſe, and freed from it's ſurrounding ſhrowd</l>
+               <l>Fetter the ſprightly Sun in's wat'ry Bed,</l>
+               <l>When in Heſperian Seas he hides his Head,</l>
+               <l>And let the Morning call him up to vain,</l>
+               <l>The fetter'd Sun will ſoon return again:</l>
+               <l>When this it done, the bleſſed Maid enchain</l>
+               <l>She and the Sun will both break forth again.</l>
+               <l>So did the Jews her Saviour once entomb,</l>
+               <l>(A Virgin Grave he had, as once a Womb.)</l>
+               <l>They ſeal'd the Stone, and careful watches ſent,</l>
+               <l>His moveing flight to hinder, and prevent.</l>
+               <l>The Righteous Sunbreaks forth the Watchmen run,</l>
+               <l>Or proſtrate fell t' adore the riſing Sun,</l>
+               <l>Turn'd Perſians without ſuperſtition.</l>
+               <pb n="78" facs="tcp:42518:44"/>
+               <l>She Praies, ſhe Sighs, and ſo tranſmits her Soul,</l>
+               <l>To her dear Lord, without the leaſt controul</l>
+               <l>Fetter her Pious Thoughts, and Chain her Sighs,</l>
+               <l>And ſeal that Lovely Source of Tears, her Eies.</l>
+               <l>Whil'ſt ſhe can Pray in vain you cruel are,</l>
+               <l>Her Praiers make God her fellow Priſoner,</l>
+               <l>There can no Priſon be while he is there.</l>
+            </lg>
+            <p>THus did the Holy Votary keep the Vigil to that Glorious Feſti<g ref="char:EOLhyphen"/>val of her Martyrdom, after the pri<g ref="char:EOLhyphen"/>mitive cuſtome of the Church, before Superſtition or Profaineſs had de<g ref="char:EOLhyphen"/>bauched the true Chriſtian Piety.</p>
+            <p>But the Morning was at laſt come, and <hi>Symphronius</hi> at the accuſtomed hour ſeated on his Tribunal; com<g ref="char:EOLhyphen"/>maded the Priſoner to be brought. He had taken infinite care to conceal from his Son what had paſt the day before, and left him now engaged in as plea<g ref="char:EOLhyphen"/>ſant imaginations as ever, while his own Soul, God knows, was travers'd with the greateſt diſtrac<g ref="char:EOLhyphen"/>tions imagi<g ref="char:EOLhyphen"/>nable.
+<pb n="79" facs="tcp:42518:44"/>Somtimes Piety prevailed, and preſented him with the fair <hi>Idea</hi> of the Chaſt Virgin, tyed to a Stake with the Flames all about her, and then ſtarting up on the ſuddain, ſhe muſt not dye, would he cry out, that is ſo Lovly in the midſt of all her Sor<g ref="char:EOLhyphen"/>rows. If the Sun ſhining through a watry Cloud dazles our eies, what would he do in a clear Heaven, and at his full Meridian. While pitty thus wholly poſſeſſed his Soul, and controlled all his other Paſſions, Ju<g ref="char:EOLhyphen"/>ſtice began to oppoſe it, he conſider<g ref="char:EOLhyphen"/>ed her then as the Blaſphemer of the Gods, and then preſently damming his guilty Pitty; he reſolved to ſee her die or hear her recant. And then the next minute he looked upon her as his Sons Miſtreſs, in whoſe ruine he ſhould infallibly bury his own and his Son's contentment; In ſuch a diſtracti<g ref="char:EOLhyphen"/>on as this did he aſcend the Tribunal, whither the chaſt <hi>Agnes</hi> was not long after brought. I need not tell you
+<pb n="80" facs="tcp:42518:45"/>her Parents accompani'd her, ſince their former affection may make you very confident of it.</p>
+            <p>She came with her former courage, and her Air ſo lively, and ſo nobly confident, did very well inform the Judge, and all the People of her Con<g ref="char:EOLhyphen"/>ſtancy. Her eies proclaimed her no A poſtate, and a Tyrant after he hath waded through Seas of Blood, to ac<g ref="char:EOLhyphen"/>quire a Crown, never hug'd it with a greater Satisfaction, than ſhe did her Perſecutions. When <hi>Symphronius</hi> demanded whether ſhe did yet repent of her impieties, and would accept her Life upon his conditions, you would have admired her Chriſtian anſwer. The brave <hi>Heroine</hi> ſtill avow'd her perſeverance in that Opinion, which he falſly called Impiety, ſhe purſued their Gods with new Injuries, and after a noble <hi>Harangue</hi> looking upon the Governour with a Chriſtian aſſu<g ref="char:EOLhyphen"/>rance. Thou haſt my final anſwer, continued ſhe, proceed now to my
+<pb n="81" facs="tcp:42518:45"/>Condemnation. I am as guilty as Chriſtianity can make me. I ſhall never accept my Life upon ſuch baſe Conditions, as thou propoſeſt; I ſcorne to court thy favour, my God if he pleaſe can protect me, and if he wils my Death, I will willingly and joyfully entertain it. Prepare thoſe Stakes and Faggots now, expoſe me to the wild Beaſts, and take away my Life the next moment, I will not diſ<g ref="char:EOLhyphen"/>grace my Obedience with a murmur; Thou canſt but make me dye, ſom<g ref="char:EOLhyphen"/>thing ſooner then Nature requires. All thy cruelties can give me but one Death, that's all thy tortures can at the utmoſt amount to. But that Death with all it's frightful adjuncts, ſhall never deprive me of my bountiful Sa<g ref="char:EOLhyphen"/>viour, that will inſtate me in Eternal Life and Glory.</p>
+            <p>
+               <hi>Symphronius</hi> was more confounded then ever, at ſo unparallel'd a con<g ref="char:EOLhyphen"/>ſtancy, but ſtaying ſome minutes in a deep aſtoniſhment, at laſt he roſe up
+<pb n="82" facs="tcp:42518:46"/>and looking upon the Saint. Since Death is a thing you ſo much deſire, ſaid he with a malicious laughter, you ſhall Live ſomthing longer. We can touch you in a more ſenſible part, and the Honour and Chaſtity you have vowed to preſerve, and thereupon diſpiſed a perſon you were wholy un<g ref="char:EOLhyphen"/>worthy of, ſhall be a Sacrifice to the fury of the Gods. Is this the laſt ef<g ref="char:EOLhyphen"/>fort of thy Malice? Anſwered the Saint, and ſmil'd, do, Proſecute thy Deſign, my God to whom I have vow<g ref="char:EOLhyphen"/>ed my Chaſtity, is able to preſerve it. This is too weak an Engine to ſtorm my Faith, and though I prefer my Honour Ten Thouſand times to Life, and all thy gawdy Poſſeſſions, be aſſured that the fear of loſing it ſhall never induce me to ſacrifice to a Stone. My Chaſtity is in too ſafe hands for thou, or all the world to violate it. Since you are ſo mightily taken with this Honour and Virginity, ſaid the Governour, go ſacrifice to the God<g ref="char:EOLhyphen"/>deſs
+<pb n="83" facs="tcp:42518:46"/>
+               <hi>Veſta,</hi> and ſo preſerve both your Life and Honour. Become one of her holy Veſtals, and direct your Devotion to it's right end. If I for my dear Saviour, replyed the <hi>Lady,</hi> deſpis'd thy Son, that lived and mov<g ref="char:EOLhyphen"/>ed, and was informed by a reaſonable Soul, and endowed with all ac<g ref="char:EOLhyphen"/>compliſhments deſirable in his age; think not thy Goddeſs, as thou call'ſt her, the Creature of ſome Work<g ref="char:EOLhyphen"/>man, that neither ſees nor hears me, that neither ſent's your Sacrifices, nor is conſcious of the Honours you do her, ſhall ever bring me to Apoſta<g ref="char:EOLhyphen"/>ſie. I contemn thy Gods more, than thee, thoſe uſeleſs, nay more, thoſe deſtructive pieces of Stone, and me<g ref="char:EOLhyphen"/>tal: Your fooliſh Legends of the mi<g ref="char:EOLhyphen"/>ſerable <hi>Niobe,</hi> and the unfortunate <hi>Actaeon</hi> ſhall never fright me into an Opinion, as Impious as 'tis Ridicu<g ref="char:EOLhyphen"/>lous. You muſt needs adore a whole Troop of Gods, though your Philo<g ref="char:EOLhyphen"/>ſophers laugh at many Infinites. Nor
+<pb n="84" facs="tcp:42518:47"/>really can I conceive a God of a cir<g ref="char:EOLhyphen"/>cumſcrib'd power, and jurisdiction. Brake down their Altars, then deface their Imagies, and convert their God<g ref="char:EOLhyphen"/>ſhips, that have lain fallow for ſo many Ages, at laſt to ſome uſe; go pave the Streets with them, you need not fear what a Stone can do to you, and you may trample on them with greater ſecurity, then adore them; ſince there's no fear they ſhould riſe up to revenge themſelves, but 'tis not impoſſible, that their Images, may, as <hi>Nero</hi>'s once did, fall down, and deſtroy their Votaries.</p>
+            <p>The Governour and the People were ſo exaſperated at her ſawcy Blaſ<g ref="char:EOLhyphen"/>phemies, as they ſeemed not a<g ref="char:EOLhyphen"/>ble to contain themſelves, they a<g ref="char:EOLhyphen"/>bandoned themſelves to their fury, which at that time they thought was too juſt, and reaſonable to be con<g ref="char:EOLhyphen"/>demned. <hi>Symphronius</hi> roſe up like a Mad-man, and cried out with the greateſt fury in the world. We ſhall
+<pb n="85" facs="tcp:42518:47"/>ſee how your God will protect your Life and Honour, that could not ſave himſelf from the Croſs, And then without delay he commanded her to be ſtript of all her Cloths, and then to be led Naked to the common <hi>Bordelli,</hi> and there to be expoſed to the luſt of all comers. Which com<g ref="char:EOLhyphen"/>mand of the Tyrant was ſo readily obeyed, that the Holy <hi>Agnes</hi> had no time to make an anſwer. The Barba<g ref="char:EOLhyphen"/>rous Ruffins had in a moment per<g ref="char:EOLhyphen"/>formed their Office, and left the Pi<g ref="char:EOLhyphen"/>ous Creature without any covering but her Innocency. But her heaven<g ref="char:EOLhyphen"/>ly Husband did not here deſert her, for her hair fell down ſo long, ſo thick, and ſhady, that not the leaſt part of her Body could be ſeen. The People were amazed at the ſight, and imagined it was a trick of her Witche<g ref="char:EOLhyphen"/>rie (for Chriſtians at that time were commonly branded with the name of Witches and Wizards) and notwith<g ref="char:EOLhyphen"/>ſtanding ſo ſignal a miracle purſued
+<pb n="86" facs="tcp:42518:48"/>their Villanies. But be pleaſed <hi>La<g ref="char:EOLhyphen"/>dies</hi> to conſider the chaſt Virgin in this condititon.</p>
+            <lg>
+               <head>A Soliloquite.</head>
+               <l>YOu that with Auburn treſſes do inſnare,</l>
+               <l>The captive Hearts of thoſe enamour'd are</l>
+               <l>That with their glorious hopes your Slaves retain,</l>
+               <l>They're Priſoners ſtill though in a golden Chain:</l>
+               <l>Hither your eies convert, and here deſcry</l>
+               <l>The nat'ral uſe of your fair Tapeſtry.</l>
+               <l>In vain they all her Ornaments remov'd,</l>
+               <l>That but conceal'd her Beauty, not improv'd.</l>
+               <l>If through the Cloud ſhe did ſuch light impart</l>
+               <l>That never pierc'd the Skin, yet pierc'd the Heart;</l>
+               <l>Now diſengag'd what wonder will ſhe be?</l>
+               <l>Her Charmes no longer can admit degree.</l>
+               <l>So ſtand the bleſſed Virgins force the Throne</l>
+               <l>Of the Thrice bleſſed ever Three and One.</l>
+               <l>They can't the holy Saint by force undreſs,</l>
+               <l>She ſtill preſerves her Veſt of Righteouſneſs.</l>
+               <l>Cloth'd without Clothes, and naked without ſhame,</l>
+               <l>In what ſtrange pleaſing Labyrinths I am.</l>
+               <pb n="87" facs="tcp:42518:48"/>
+               <l>She a good Heretick might juſtly ſeem,</l>
+               <l>Who e're would ſuch an Adimite condemn?</l>
+               <l>A Lovely Penitent ſhe needs muſt be,</l>
+               <l>Cloth'd in her Hair-cloth and her Piety.</l>
+               <l>Thus ſhe retrives the Golden Age, and is</l>
+               <l>A ſecond <hi>Eve,</hi> though out uf Paradiſe.</l>
+               <l>So <hi>Agnes</hi> ſtands at <hi>Eve</hi> in <hi>Edom</hi> then,</l>
+               <l>Here's Serpents too, but ah! There's no ſuch men.</l>
+            </lg>
+            <p>THus was the fair <hi>Agnes</hi> led along towards the place of diſhonour. Whilſt the People, even the moſt zealous among them, that is the moſt ſavage and impions could not chuſe but commiſerate her condition. The <hi>Roman Ladies,</hi> though they were as great Sticklers for their Paganiſm, as their Husbands, rag'd and condemn'd the Governour. They bluſh'd to ſee one of their own Sex thus expoſed to the ſight and laughter of all the world, and though they condemned her blaſ<g ref="char:EOLhyphen"/>phemies, they could not think, that ſhe deſerved ſo cruel a treatment.
+<pb n="88" facs="tcp:42518:49"/>However they ſaid it was infinitely uh<g ref="char:EOLhyphen"/>juſt to punish the whole Sex, for the fault of a ſingle Perſon; and after theſe conſiderations what lamentati<g ref="char:EOLhyphen"/>ons, what diſtractions were amongſt them? Nay thoſe that were the moſt prudent and ſtay'd Perſons, could not moderate their Paſſions in ſo ſtrange reencounter.</p>
+            <p>Thus did the <hi>Ladies</hi> expreſs their ſentiments of their Husbands cruelty, but the poor <hi>Agnes</hi> was not the better for them. The ſavage Ruffins led her along for all the cries of the Di<g ref="char:EOLhyphen"/>ſtracted Matrons, though common modeſty, and that reſpect her brave deportment had ſtrook into them, had made the more civil part of the Peo<g ref="char:EOLhyphen"/>ple to depart, or hide their eies from ſo uncommon and unbeſeeming a Spe<g ref="char:EOLhyphen"/>ctacle.</p>
+            <p>And now at laſt our chaſt Votary was brought into the Bordelli. She blushed, ſhe trembled at the ſight of it, but after ſome minutes aſtonish<g ref="char:EOLhyphen"/>ment.
+<pb n="89" facs="tcp:42518:49"/>'Tis for thy ſake, my dear Lord, ſhe cried out, that I enter in<g ref="char:EOLhyphen"/>to this place of pollution, preſerve thou my Chaſtity, thou that mak'ſt the Sun ſhine on a Dunghill without defiling it, let not my Virtue contract a ſtain from this place and be pleaſed to keep me chaſt, where hitherto there was nothing but abomination. She would have proceeded had not the rabble diſturbed her by their out<g ref="char:EOLhyphen"/>cry. She was then led into her Cham<g ref="char:EOLhyphen"/>ber, which was formerly dedicated to uncleaneſs, but her very preſence ſanctified the place. The Sun can make day in <hi>Green-land</hi> after the night hath continued for Six Months together, and our Saint can transfund a Sanctity into a Bawdy Houſe, where virtue was never thought of. Who would not wonder to ſee one on his Knees there to any thing but his Mi<g ref="char:EOLhyphen"/>ſtreſs? To hear Praiers inſtead of Oaths, and inſtead of a Damn, a Lord deliver me.</p>
+            <pb n="90" facs="tcp:42518:50"/>
+            <lg>
+               <head>A Soliloquie.</head>
+               <l>WHat do I ſee! chaſt <hi>Agnes</hi> in a Stew?</l>
+               <l>No, I miſtake. It is not, can't be true.</l>
+               <l>Though Stars deſert their Sphears when guided thence</l>
+               <l>By ſome extravagant Intelligence.</l>
+               <l>And the bright Errant Sol diſert his Line,</l>
+               <l>And won't himſelf within his bounds confine.</l>
+               <l>Saint <hi>Agnes</hi> ſtill muſt be</l>
+               <l>Not chaſt, but chaſtity,</l>
+               <l>The world may leave it's order, but not ſhe.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>She's there I vow, what ſhall I fix upon</l>
+               <l>To reconcile a Contradiction?</l>
+               <l>She's there, She's there her ſelf, behold that Eye</l>
+               <l>That inflam'd Lovers, in a River ly.</l>
+               <l>Which now advanc'd to Heav'n you may ſee</l>
+               <l>Meaſuring her Journey to Eternity.</l>
+               <l>Behold that Lovly Ray</l>
+               <l>She does on Heav'n diſplay,</l>
+               <l>Could if ſhe pleas'd at Midnight make a day.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <pb n="91" facs="tcp:42518:50"/>
+               <l>Her pure and Virgin hands, that broken ſight,</l>
+               <l>And tears more Rich then th' <hi>Indian</hi> treaſurie,</l>
+               <l>Her Pray'r as humble as 'twas reſolute,</l>
+               <l>Bravely aſſur'd gainſt Heav'n to diſpute</l>
+               <l>By theſe I'me ſure 'tis ſhe, ay, ay 'tis ſhe,</l>
+               <l>They th' Characteriſticks of good <hi>Agnes</hi> be.</l>
+               <l>She ſighs, ſhe weeps, ſhe praies,</l>
+               <l>Heav'n ne're heard ſweeter laies</l>
+               <l>From him that Lov'd, and does now wear the baies</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Strange Praying in this filthy place! Ah! no,</l>
+               <l>While <hi>Agnes</hi> ſtays it can no more be ſo,</l>
+               <l>Than Night can with it's darkeſt ſhades remain</l>
+               <l>When to our world the Sun returns again.</l>
+               <l>The Tyrant does in vain expreſs his hate,</l>
+               <l>The Stew's a Temple by her Conſecrate,</l>
+               <l>Whilst others make the houſe of Praier</l>
+               <l>A Den of Theives, for ſo they are,</l>
+               <l>Stews are made ſacred, while the Saint is there.</l>
+            </lg>
+            <pb n="92" facs="tcp:42518:51"/>
+            <p>THus did ſhe ſpend her minutes in that place of wickedneſs, her Pi<g ref="char:EOLhyphen"/>ous Soul retaind its native purity, &amp; never entertained her Lord with more Devotion than at that time. Her piety I perſwade my ſelf was natural to her, and like all natural Motions moved ſwifteſt towards the end. Her Mar<g ref="char:EOLhyphen"/>tyrdom now approaching, her Devo<g ref="char:EOLhyphen"/>tion was more vigorous, and the pie<g ref="char:EOLhyphen"/>ty of all the time ſhe might have lived, had not the Tyrant robd the world of ſo bright a Jewel, being contracted into ſo ſhort a time, was infinitely aug<g ref="char:EOLhyphen"/>mented. She aſſaulted the Almighty with ſo agreeable a violence, that he ſhowed his approbation of her petiti<g ref="char:EOLhyphen"/>ons in a manner very miraculuos.</p>
+            <p>While ſhe was intent upon her De<g ref="char:EOLhyphen"/>votion, caſting her eies by chance on one ſide; ſhe eſpied hanging on the wall a pure white Garment, whereas when ſhe came in, there was none there, She was at firſt ſurpriſed both with the incomparable whiteneſs and
+<pb n="93" facs="tcp:42518:51"/>pureneſs of it, and wondered how ſo much cleaneſs ſhould come into ſo de<g ref="char:EOLhyphen"/>filed a place. But immediately re<g ref="char:EOLhyphen"/>flecting on her own Nakedneſs, ſhe acknowledged it was the goodneſs of her Lord, that did not forſake her in that condition. She took it, and putting it on, with her bright eies lift up to Heaven, Dear Lord , ſaid ſhe, how infinite is thy goodneſs , it ſtill purſues me. Thou art pleaſed to ſuccour thy poor and unworthy Ser<g ref="char:EOLhyphen"/>vant in a Stew, and haſt ſent thy Holy Angel with this Heavenly Garment to cover my Nakedneſs. Lord make me worthy of theſe thy favours, keep me pure and immaculate, and tranſ<g ref="char:EOLhyphen"/>late me hence into that place of puri<g ref="char:EOLhyphen"/>tie, where no fear of Stews, nor ap<g ref="char:EOLhyphen"/>prehenſion of Governours, with their Sons may moleſt me. Where in that Virgin Quire, whereof thy bleſſed Mother is the chief; I may caroll out thy praiſes, and in a long white Robe be ever happy in the contemplation of thy Divine Excellence.</p>
+            <pb n="94" facs="tcp:42518:52"/>
+            <lg>
+               <head>A Soliloquie.</head>
+               <l>
+                  <hi>WHat pretious preſent does my Saviour make,</hi>
+               </l>
+               <l>
+                  <hi>Fit for a God to give, a Saint to take?</hi>
+               </l>
+               <l>
+                  <hi>Whiter than Snow, and what ere ſtrikes the ſenſe,</hi>
+               </l>
+               <l>
+                  <hi>White as her Soul, and Virgin Innocence.</hi>
+               </l>
+               <l>
+                  <hi>Now let our rigid Hereticks appear,</hi>
+               </l>
+               <l>
+                  <hi>Who can hate ſurpleſſes, and ſee them here?</hi>
+               </l>
+               <l>
+                  <hi>Who was the Heavnly Artiſt, what the Loom,</hi>
+               </l>
+               <l>
+                  <hi>That Wove the Veſt, that did the Saint become?</hi>
+               </l>
+               <l>
+                  <hi>The Angels did in ſuch a dreſs appear</hi>
+               </l>
+               <l>
+                  <hi>Thoſe early Guardians of the ſepulcher.</hi>
+               </l>
+               <l>
+                  <hi>Thoſe Heavenly Swans that from their Silver Throat</hi>
+               </l>
+               <l>
+                  <hi>Breathd out Salvation in a Lovly note.</hi>
+               </l>
+               <l>
+                  <hi>She took the Heavenly preſent in her hand,</hi>
+               </l>
+               <l>
+                  <hi>Brighter then Diamonds, ſparkling on the Strand.</hi>
+               </l>
+               <l>
+                  <hi>How many charms did in the Veſt appear,</hi>
+               </l>
+               <l>
+                  <hi>And yet twas far more Heavenly, ſet on her.</hi>
+               </l>
+               <l>
+                  <hi>This Wedding Garment, would ſhe ſighing ſay,</hi>
+               </l>
+               <l>
+                  <hi>Had in thy Blood its ſpots all waſhd away.</hi>
+               </l>
+               <l>
+                  <hi>I am obligd unto their Cruelty,</hi>
+               </l>
+               <l>
+                  <hi>That left me Naked to be Clothd by thee.</hi>
+               </l>
+               <pb n="95" facs="tcp:42518:52"/>
+               <l>
+                  <hi>Yet cannot this thy Heavenly gift ſuffice,</hi>
+               </l>
+               <l>
+                  <hi>My lofty wiſhes will ſtill higher riſe.</hi>
+               </l>
+               <l>
+                  <hi>Not Heaven, nor Earth, nor all the world beſide</hi>
+               </l>
+               <l>
+                  <hi>When thou art abſent, can content thy Bride.</hi>
+               </l>
+               <l>
+                  <hi>O cloth me with thy ſelf, and let me be,</hi>
+               </l>
+               <l>
+                  <hi>Reflecting ſtill thy Sun of Majeſty.</hi>
+               </l>
+               <l>
+                  <hi>Yet cant this preſent, Lord, unwelcome prove,</hi>
+               </l>
+               <l>
+                  <hi>Both cauſe tis Heavnly, and it ſhews thy Love.</hi>
+               </l>
+            </lg>
+            <p>THus did ſhe thankfully reſent the Divine Goodneſs, and expreſſed her gratitude. And now what Cen<g ref="char:EOLhyphen"/>ſorious and rigid Chriſtian would not conſent to the Conſecration of this Brothel-houſe, and make a Chriſtian Church of a Pagan Whore-houſe.</p>
+            <p>While the Saint was thus employ<g ref="char:EOLhyphen"/>ed, the People were not engaged in ſo Pious an employment. They had not left the Stew, but ſtaid attend<g ref="char:EOLhyphen"/>ing at the Door, leaſt ſhe ſhould make an eſcape, and I conjecture too, it was partly out of reſpect that they did not go in too her, till the Young
+<pb n="96" facs="tcp:42518:53"/>
+               <hi>Symphronius</hi> had had his deſires. But ſome of the boldeſt of them came con<g ref="char:EOLhyphen"/>fidently in to look upon her, and feed their eies with ſo unhandſome a ſight. But they ſtaid not long there, for our bleſſed Saviour had inveſted his Saint with ſo heavnly a luſtre, that they fell upon their Faces and retird with all the haſt and reſpect they could. Thus our bountiful Redeemer was pleaſed to communicate his Heavenly Wardrobe, and wipe all tears from her eies, or if any remaind there, they turned into Chriſtian Jewels, while the Glory of her countenance illuſtra<g ref="char:EOLhyphen"/>ted them. As the Sun turns an in<g ref="char:EOLhyphen"/>comparable Jeweller, when it ſhines through a waterie Cloud, and makes every drop a Diamant, reſplendent in its native dew. Our bold intruders came out again, not ſo brisk as they went in, which gave the People a freſh cauſe of Admiration. They asked them a Hundred times what was the matter, but could not receive a
+<pb n="97" facs="tcp:42518:53"/>word in anſwer; whereupon ſome bold Ruffins among them reſolved to march in, and ſee if the Sorcereſs (for ſo they called her) would ſend them back in the ſame condition. But their confidence had the ſame iſſue, for they returned, as much ſurpriſed as the former, ſo that they deſiſted from ſuch Intruſions.</p>
+            <p>Go now, fooliſh Tyrant, purſue thy crueltie, deprive her of all her Garments; her God ſhall ſupplie her; expoſe her to the luſt of all the world, ſet the doors open, and invite all the <hi>Roman</hi> Gentlemen to the fruition of a Young and Handſome <hi>Lady,</hi> her God ſhall ſtill preſerve her, and her Guar<g ref="char:EOLhyphen"/>dian Angel defeat all thy projects a<g ref="char:EOLhyphen"/>gainſt her. Yes Tyrant, in ſpite of all thy fury ſhe ſtill preſerves her Chaſtity, even in a Stew, and remains there a purer Virgin, then thy Veſtal Recluſes are in their private Apart<g ref="char:EOLhyphen"/>ment. But thou alas art not now in a condition to hear good advice, thy
+<pb n="98" facs="tcp:42518:54"/>cares are directed to a very different end, and inſtead of freeing the Inno<g ref="char:EOLhyphen"/>cent <hi>Lady,</hi> thou art now coining her ſome new Deſtruction.</p>
+            <p>The Young Lover that had flatter<g ref="char:EOLhyphen"/>ed himſelf for ſome time with the fair hopes of enjoying his wiſhes, was now in a condition to leave his Chamber, and take Poſſeſſion of his Miſtreſs, as his Father had promisd him he ſhould; He was thinking of nothing elſe, when <hi>Symphronius</hi> entered the Chamber, who looking upon his Son very ear<g ref="char:EOLhyphen"/>neſtly. Go dear Boy, ſaid he, and injoy thy <hi>Agnes</hi> ſhe cannot now op<g ref="char:EOLhyphen"/>poſe thy wiſhes, and thou haſt all the conveniences in the world of making thy ſelf as happy, as <hi>Agnes</hi> can make thee. The Young Man was ſo over joyed at ſo welcome a Propoſition, that he could not find his Tongue im<g ref="char:EOLhyphen"/>mediately to thank his Father, and ſhew with what willingneſs he would obey him; but after ſome time look<g ref="char:EOLhyphen"/>ing on his Father with eies that lan<g ref="char:EOLhyphen"/>guiſhed
+<pb n="66" facs="tcp:42518:54"/>with deſire. Igo, <hi>Sir,</hi> ſaid he, both becauſe my own Inclinati<g ref="char:EOLhyphen"/>ons invite me thither, and you are pleaſed to command me. He ſaid no more but was leaving his Chamber to fly to the Arms of his <hi>Agnes,</hi> when his Father ſtaid him, and looking on him with more diſtraction then be<g ref="char:EOLhyphen"/>fore. But you muſt enjoy her in a Stew then, ſaid the Governour. Our Lover was confounded at ſo ſtrange an advertiſement. Is <hi>Agnes</hi> falſ then? Cried he out, very furiouſly; has ſhe violated her Innocence? and ru<g ref="char:EOLhyphen"/>ined her honour? that honour that ſhe oppoſed me with for ſo long a time, and that though it hindered my happineſs, I could not but admire. Is the Lovly, Virtuous <hi>Agnes,</hi> turned a ſtrumpet, and was ſhe only a fair Hypocrite when ſhe ſtood moſt upon her Virtue? Was all her Piety but a perſonated peice of goodneſs? Ah! <hi>Sir,</hi> tis impoſſible for the beſt of Wo<g ref="char:EOLhyphen"/>men to remain innocent for a moment
+<pb n="100" facs="tcp:42518:55"/>after the Beautiful <hi>Agnes</hi> hath left her Goodneſs by ſo ſhameful an Apoſtaſie. No, Child, you miſtake your ſelf, an<g ref="char:EOLhyphen"/>ſwerd the Governour: Ay, I do miſtake my ſelf, replied the Lover haſtily, tis impoſſible ſhe ſhould be guilty of ſuch a wickedneſs, Villain that durſt ſuſpect her, and durſt believe all the world to her diſadvantage. <hi>Agnes</hi> can ne<g ref="char:EOLhyphen"/>ver be in a Stew, till it ceaſe to be ſo, and it muſt firſt be made Virtuous be<g ref="char:EOLhyphen"/>fore <hi>Agnes</hi> can be brought to it. As our noble part, the Soul, is never in<g ref="char:EOLhyphen"/>funded, till the Maſs of matter be furniſhed with convenient Organs for it's reception. He was ſo tranſported in his <hi>Harangue,</hi> that his Father could not ſtop him, till he came hither; but perceiving him ſtay a little, he ſaid. Your <hi>Agnes</hi> is indeed in a Stew, but ſhe hath ſtill kept her honour, and were Luſt the only crime ſhe could be accuſed of, ſhe were the greateſt peice of Excellence in the world. Good, <hi>Sir,</hi> abuſe me not, replied the Lover ſomthing more mildly than
+<pb n="101" facs="tcp:42518:55"/>before, with your pleaſing Paradoxe: Though were that poſſible, continu<g ref="char:EOLhyphen"/>ed he, you tell me of, it would be poſſible to none but my dear <hi>Agnes,</hi> and ſhe would be the only perſon in the world, that could declame De<g ref="char:EOLhyphen"/>bauchery, and transfund Virtue in<g ref="char:EOLhyphen"/>to the Stews. His Father ſeeing him now ſomthing pacified and in a condi<g ref="char:EOLhyphen"/>tion to hear him, aſſum'd the diſcourſe, and told him all that had paſt; he ac<g ref="char:EOLhyphen"/>quainted him with her Chriſtianity, and what had paſt, very faithfully. And at laſt looking upon his Son with all the fury in the world. Go revenge us, ſaid he, on that fair Enemy of Heaven take thy ſatisfaction, Fruition is the ſame all the world over, whe<g ref="char:EOLhyphen"/>ther in a Stew, or private Apart<g ref="char:EOLhyphen"/>ment. Stand not now upon your Punctilio's of Honour: I conjure you to it by your duty, by that Piety you owe the Gods, and the ſatisfaction you owe your ſelf, and me. It would be impoſſible for me, ſully to deſcribe
+<pb n="102" facs="tcp:42518:56"/>our Lover's confuſion. He grew pale, and red again, he tremb<g ref="char:EOLhyphen"/>led, and when he endeavoured to ſpeak, he falter'd, and his Tongue could not then ſerve him, with that Office he requir'd of it. His Father made uſe of his ſilence, and preſſed him ſo vehemently to a thing, that were it not for ſome unhandſome cir<g ref="char:EOLhyphen"/>cumſtances, he deſir'd above any thing in the world, that at laſt his reaſon retir'd, and his Paſſion hurried him on to the performance of it. How did his Father then imbrace and ca<g ref="char:EOLhyphen"/>reſs him, and forthwith ſent him out to the the accompliſhment of what he ſo much deſir'd.</p>
+            <p>The Young Man no longer made any ſcruple to obey him, but enter'd into the Stew, as he would into that <hi>Elizium</hi> their Religion told them of. He entered indeed, for nothing now could ſtop him, but with the ſame ſucceſs as that <hi>Roman</hi> Emperour, the Noble <hi>Julius,</hi> did into the Senate,
+<pb n="103" facs="tcp:42518:56"/>to be ruined in that place, where he expected the crowning of his wiſhes. He was no ſooner in the Chamber, but ſeeing his beloved <hi>Agnes,</hi> (he could not poſſibly miſtake her, that carried her Beautiful <hi>Idea</hi> in his Heart continually,) he ſpied her Heavenly Veſtment, and her ſurrounding Glo<g ref="char:EOLhyphen"/>ry; he was ſurpriſed at this; but he reaſſum'd his courage, and ad<g ref="char:EOLhyphen"/>vanced towards his Miſtres, and his Deſtruction. For the Devil by the Permiſſion of the Almighty, ſtrangled him. The Holy Maid was extream<g ref="char:EOLhyphen"/>ly troubled at it, but conſidering all this was done for the preſervation of her Chaſtity, ſhe bleſſed her Saviour for his wonderful aſſiſtance, and could not but admire his infinite Power and Goodneſs, that made e<g ref="char:EOLhyphen"/>ven the Devil deſtroy their common Enemies.</p>
+            <pb n="104" facs="tcp:42518:57"/>
+            <lg>
+               <l>
+                  <hi>TOo fatal Love! how cruel art thou grown?</hi>
+               </l>
+               <l>
+                  <hi>Hate ne're yet made a life Deſtruction.</hi>
+               </l>
+               <l>
+                  <hi>He's dead, his life, his hopes are fled away,</hi>
+               </l>
+               <l>
+                  <hi>While he poor Soul, dream'd of ſome other fray,</hi>
+               </l>
+               <l>
+                  <hi>Like Princes ſtab'd o'th' Coronation day,</hi>
+               </l>
+               <l>
+                  <hi>He came to find a Miſtreſs, and there be</hi>
+               </l>
+               <l>
+                  <hi>Lull'd into ſome ſweet felicity.</hi>
+               </l>
+               <l>
+                  <hi>How his hard fate oppos'd his ſweet intent,</hi>
+               </l>
+               <l>
+                  <hi>For a warm Miſtreſs, a cold Monument.</hi>
+               </l>
+               <l>
+                  <hi>Hot Devils muſt careſs our Paramour.</hi>
+               </l>
+               <l>
+                  <hi>Hot as his luſt, nor then his flames more pure.</hi>
+               </l>
+               <l>
+                  <hi>His luſt could ne're with the Chaſt Saint agree,</hi>
+               </l>
+               <l>
+                  <hi>As Heaven and Hell have their Antipathy.</hi>
+               </l>
+               <l>
+                  <hi>How ſafely may the Saint her foes deſpiſe,</hi>
+               </l>
+               <l>
+                  <hi>The Devil himſelf deſtroys her Enemies.</hi>
+               </l>
+               <l>
+                  <hi>Lust, and Devil, do the Saint ſurround,</hi>
+               </l>
+               <l>
+                  <hi>Enclos'd, her goodneſs does the more abound.</hi>
+               </l>
+               <l>
+                  <hi>Incompas'd with a Stew ſhe Chaster is,</hi>
+               </l>
+               <l>
+                  <hi>Chriſtians have their Antiperiſtaſis.</hi>
+               </l>
+            </lg>
+            <pb n="105" facs="tcp:42518:57"/>
+            <p>THe <hi>Lady</hi> continued in her Devoti<g ref="char:EOLhyphen"/>on, and the People out of reſpect to the Young <hi>Symphronius</hi> ceaſed their Incivilities, and ſeeing him ſtay ſomthing long within, imagined he was about his pleaſures, and there<g ref="char:EOLhyphen"/>fore entered not in for a conſiderable time. But at laſt ſeeing he came not out, ſuſpecting by the ſucceſs of the former Intruders, that the fair Witch (for they could not allow any better Title) might have kil'd him, they ruſh'd in, and found the poor Lover cold and pale upon the Ground, and immediately cried out, the Sorcereſs hath kil'd the Son of the Governour: they all purſued to the Stake with her, to revenge the Gods and the Governour.</p>
+            <p>This lamentable news preſently ar<g ref="char:EOLhyphen"/>rived at the Governours ears, who half Diſtracted at it, run furiouſly to the Stew, and approaching the Holy <hi>Agnes,</hi> Dam'd Sorcereſs, cried he out, why ſhouldſt thou deſtroy a Per<g ref="char:EOLhyphen"/>ſon,
+<pb n="106" facs="tcp:42518:58"/>whoſe only fault was his too well loving thee? Is this your Chriſtian Conſcience? And could his Affecti<g ref="char:EOLhyphen"/>on render him ſo great a Criminel? Ah! cruel, ungrateful Woman! He was going on, when the good <hi>Lady</hi> extreamly afflicted too hear her Inno<g ref="char:EOLhyphen"/>cence abus'd ſo, No <hi>Sir,</hi> ſhe cried out, and interrupted him. I did not kill your Son, but that Maſter he ſerv'd, the Devil; Blaſt not my Innocence, but impute the Death of your <hi>Sym<g ref="char:EOLhyphen"/>phronius</hi> to him, that was the cauſe of it. No, cruel one, ſaid he, impatient<g ref="char:EOLhyphen"/>ly, thy Sorceries have produc'd it, and rob'd me of the greateſt comfort I had in the world. But why, for Hea<g ref="char:EOLhyphen"/>vens ſake, did'ſt thou ſpare, the reſt that came into the Chamber to thee, and only deſtine my poor Boy to ſo ſevere a Puniſhment? The reſt, ſaid the <hi>Lady,</hi> came not upon ſo bad a Deſign as thy Son did, and the juſt God would ſeperate the guitly from the Innocent. Thou lyeſt, ſaid the
+<pb n="107" facs="tcp:42518:58"/>enrag'd Father. He was not guilty, he was Good and Innocent, and thou art the only Criminel, or if thou wilt clear thy Innnocence, and ſhew what thy God can do, of whoſe power you talke of ſo much, give me my Son a<g ref="char:EOLhyphen"/>live again, and I will pronounce thee guiltleſs. Chriſtians talk much of Mercy and Compaſſion, ſhew us now a Proof of it, and ſuccour the moſt miſerable Father that ever breath'd.</p>
+            <p>Though your Infidelity deſerve it not, anſwer'd the Holy Saint, yet, to ſhew the power and mercy of my dear Saviour, I will beg his Life, and doubt not but my Praiers ſhall re<g ref="char:EOLhyphen"/>ſtore him. But think not Governour of <hi>Rome,</hi> that I do this to oblige thee to reſcue me. No, my Piety ſhall not be ſo mercinary. It troubles me that that fatal Love, which your Son conceiv<g ref="char:EOLhyphen"/>ed for me, ſhould render him guilty of ſuch a Vilanie, and then deliver him up to be ſtrangled by the hands of the Devil, and though I did not
+<pb n="108" facs="tcp:42518:59"/>willingy produce that guilty Flame, and though I cauſed it, was the In<g ref="char:EOLhyphen"/>nocent cauſe of it, yet I would have procured him his Libertie by any o<g ref="char:EOLhyphen"/>ther means then leaving my bleſſed Saviour, and violating my moſt ſa<g ref="char:EOLhyphen"/>cred Vow of a perpetual Virginitie. I will therefore humblie intreat my bountiful and Almightie Lord to re<g ref="char:EOLhyphen"/>ſtore him to his Life again, and that antient tranquilitie he enjoyed, be<g ref="char:EOLhyphen"/>fore my unhappie eies had deſtroy<g ref="char:EOLhyphen"/>ed it.</p>
+            <p>The Governour hereupon imme<g ref="char:EOLhyphen"/>diately retir'd, and left the Saint to her Praiers. It would be impoſſi<g ref="char:EOLhyphen"/>ble for me to expreſs her Pious Orai<g ref="char:EOLhyphen"/>ſons, her Almightie Tears and Sighs, that could extort what ſhe deſir'd from her bleſſed <hi>Jeſus.</hi> The Primi<g ref="char:EOLhyphen"/>tive method of Chriſtian Devotion was then Vigorous, and Regular, and not capable to be deſir'd by us that live in ſo prophane a Generation. Her Praiers were not long, they were con<g ref="char:EOLhyphen"/>tracted,
+<pb n="109" facs="tcp:42518:59"/>and therefore the more ſtrong and valid; A Period was included in a Word, and a whole Diſcourſe inclos'd in a Period. Such powerful Petitions could not be long in producing their effects, as really they were not, for the Young Gentleman preſently aroſe, and to prove that the Heathen only had died, and the Old Man been Buried in him, he Roſe up to a Chri<g ref="char:EOLhyphen"/>ſtian, and running out into the Street, where his Father expected what the <hi>Ladies</hi> Praiers could effect, he cried out with a loud voice there is only one God, and that God is the God of the Chriſtians.</p>
+            <pb n="110" facs="tcp:42518:60"/>
+            <lg>
+               <l>
+                  <hi>SO rais'd! And by his Miſtriſs too alone,</hi>
+               </l>
+               <l>
+                  <hi>This is a double Reſurrection.</hi>
+               </l>
+               <l>
+                  <hi>She from whoſe hand, he could receive his death,</hi>
+               </l>
+               <l>
+                  <hi>Without a Sigh, and Smile, away bis breath,</hi>
+               </l>
+               <l>
+                  <hi>Does bountifully life and health conferre,</hi>
+               </l>
+               <l>
+                  <hi>Now doubly wellcome 'cauſe they came from her.</hi>
+               </l>
+               <l>
+                  <hi>From her ſweet lips life doth new charms derive,</hi>
+               </l>
+               <l>
+                  <hi>And makes our happy Lover more then live,</hi>
+               </l>
+               <l>
+                  <hi>He lives, and does a Chriſtian become,</hi>
+               </l>
+               <l>
+                  <hi>Born in the Grave, regenerate in the Tomb.</hi>
+               </l>
+               <l>
+                  <hi>Say Chriſtians what a ſweet divorce was this,</hi>
+               </l>
+               <l>
+                  <hi>How Lovly ſuch a Separation is!</hi>
+               </l>
+               <l>
+                  <hi>He dy'd, but only dy'd to live again,</hi>
+               </l>
+               <l>
+                  <hi>As he's regenerate that's a Chriſtian.</hi>
+               </l>
+               <l>
+                  <hi>So after a debauch I've often ſeen,</hi>
+               </l>
+               <l>
+                  <hi>When ſence and reaſon both were put out clean.</hi>
+               </l>
+               <l>
+                  <hi>A gentle ſlumber lock the heavy eies,</hi>
+               </l>
+               <l>
+                  <hi>And ſteal upon the Soul by ſoft ſurpriſe,</hi>
+               </l>
+               <l>
+                  <hi>But when theſe pleaſing ſlumbers go again,</hi>
+               </l>
+               <l>
+                  <hi>Then from the Beaſt there riſes up a man:</hi>
+               </l>
+               <pb n="111" facs="tcp:42518:60"/>
+               <l>
+                  <hi>Ah! happy Soul 'twas worth the dying ſo,</hi>
+               </l>
+               <l>
+                  <hi>By Death to baniſh Death, and wo by wo.</hi>
+               </l>
+               <l>
+                  <hi>While from Eternal pains, ſhort pains retrive,</hi>
+               </l>
+               <l>
+                  <hi>And dying once thou doſt for ever live.</hi>
+               </l>
+               <l>
+                  <hi>Baptis'd in Death, turn'd Chriſtian in the Grave,</hi>
+               </l>
+               <l>
+                  <hi>What need he fear, that Death it ſelf can ſave.</hi>
+               </l>
+            </lg>
+            <p>PIous Martyr, thou for all his out<g ref="char:EOLhyphen"/>rages and violence which his ex<g ref="char:EOLhyphen"/>travagant Love made him commit, doſt graciouſly pardon him, and by thy holy Praiers, freeſt him from that Death he had endured, and deſerv<g ref="char:EOLhyphen"/>ed, to give him the hopes of Eternal Life and Glory, in making him com<g ref="char:EOLhyphen"/>mence a Chriſtian. How Divine is this Act of thine gracious <hi>Lady,</hi> how well doſt thou Imitate thy God in this? That oftentimes denies us what we deſire, when we beg thoſe things that may hurt us, and gives us what his infinite Wiſedom knows moſt convenient. Thou would'ſt not grant him, what his immoderate affection
+<pb n="112" facs="tcp:42518:61"/>made him deſire; thou woul'ſt not ceaſe to be what thou waſt, but mad'ſt thy Lover like thy ſelf, a Chriſtian, and mad'ſt him approve of thy bleſſed choice, and Love thy deareſt Lord, almoſt as ardently as thy ſelf.</p>
+            <p>The People were diſtracted, at ſo ſtrange an incounter. The Prieſts, being the moſt concern'd Perſons, were the firſt that demanded St. <hi>Ag<g ref="char:EOLhyphen"/>nes,</hi> and cried out, that her Sorceries and Blaſphemies could no other way be expiated but by Flames, and then threatned them with the fury of the Gods; if ſuch offences were left un<g ref="char:EOLhyphen"/>puniſh'd. The giddy Rabble ſecon<g ref="char:EOLhyphen"/>ded their zealous Prieſts, and all the City, almoſt urg'd the neceſſity of puniſhing St. <hi>Agnes.</hi> The Gover<g ref="char:EOLhyphen"/>nour being now frighted by ſo many Signal Miracles, did all he could to retrive her from thoſe dangers he had engag'd her in, but all was to no purpoſe. He could not reſiſt the fu<g ref="char:EOLhyphen"/>ry of an incens'd Rabble. So that
+<pb n="113" facs="tcp:42518:61"/>ſeeing his impuiſſance to reſcue her, and perform his promiſe; which though the good <hi>Agnes</hi> never men<g ref="char:EOLhyphen"/>tioned it, he ſtill remembred, he forthwith retir'd, and committed the management of the buiſneſs to his Subſtitute one <hi>Aſpaſius,</hi> that neither was willing to ſave the Saint, as be<g ref="char:EOLhyphen"/>ing a notable Zealot for their ſuperſti<g ref="char:EOLhyphen"/>tion, and no friend to the Chriſtians, and had he deſir'd it the moſt in the world, he durſt not have reſiſted the multitude. Where <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he immediate<g ref="char:EOLhyphen"/>ly conſented to her puniſhment with<g ref="char:EOLhyphen"/>out repugnance, and formally con<g ref="char:EOLhyphen"/>demn'd her to be burn.</p>
+            <pb n="114" facs="tcp:42518:62"/>
+            <lg>
+               <l>COndemn her to the Flames! ſtay Tyrant, ſtay</l>
+               <l>She hath no droſs that can be purg'd away.</l>
+               <l>She's pure as ſprightly Seraphs that do prove</l>
+               <l>No other Flames, but thoſe pure Flames of Love.</l>
+               <l>Flames of the Love Divine, that with perfume</l>
+               <l>Only guild on'e their object, not conſume.</l>
+               <l>Why ſhould you needleſs trouble thus purſue?</l>
+               <l>The Saint her ſelf would finiſh, what you do.</l>
+               <l>Her ſervent Zeal, and Love might wel ſuffice</l>
+               <l>Alone to make her Love's ſweet Sacrifice.</l>
+               <l>If in your Flames ſhe muſt her breath expire,</l>
+               <l>Your Cruelty will but advance her higher,</l>
+               <l>She'l ſcale the Heavens in a Coach of Fire.</l>
+               <l>Brighter in Flames, our bleſſed Martyr is</l>
+               <l>Then <hi>Caeſars</hi> in their Apotheoſis.</l>
+               <l>Her Soul without an Eagle climbs the Skie,</l>
+               <l>Keeping her heav'nly Quarry in her eye.</l>
+            </lg>
+            <pb n="115" facs="tcp:42518:62"/>
+            <p>TIs to no purpoſe to ſpeak any lon<g ref="char:EOLhyphen"/>ger to the mad Rabble, and their madder Governour. They are not at leaſure to hear any thing in the fa<g ref="char:EOLhyphen"/>vour of St. <hi>Agnes.</hi> The buiſy Prieſts think not themſelves ſecure, nor their Gods ſafe at their Altars, till ſhe was diſpatched out of the world. The People apprehended ſtrange Judgments, if ſuch unheard of Blaſ<g ref="char:EOLhyphen"/>phemies ſhould go unpuniſh'd. So that the conſpiring fury of Prieſts and People, hurried our holy Votary to the place of Execution; Be pleaſed to conſider her Noble Conſtancy, ſhe comes, her eies ſhine brighter then thoſe Flames that are provided for her puniſhment, and her Heart burns, with a noble ardor; but all theſe charms cannot prevail with the cruel Villians, to remit her puniſh<g ref="char:EOLhyphen"/>ment: they perſiſt in their cruelty, as much as ſhe does in her Devotion, and here it was that ſhe gain'd a noble Victory, and kept her Chriſtianity
+<pb n="116" facs="tcp:42518:63"/>with as much conſtancy as they op<g ref="char:EOLhyphen"/>poſed it: She was now brought to the Stake, and the Faggots placed round about her, but all could not tempt nor terrify this Heroick Martyr of Chriſt <hi>Jeſus,</hi> ſhe lift up her hands her eies towards Heaven, where her Heart had reſted more then in her Body many Years before. I come ſweet <hi>Jeſu</hi> ſhe cried out; receive thy Martyr into Glory; while ſhe was ſaying this, the People to ſtop her Mouth put Fire to the Faggots which immediately were all in a Flame; but the Pious <hi>Agnes</hi> ſtill continued her Devotions, all the crackling of the Flames and out-cries of the People, could not diſtract her. So I perſwade my ſelf in that dreadful day of Judg<g ref="char:EOLhyphen"/>ment, thy Good Elect ſweet Re<g ref="char:EOLhyphen"/>deemer, will ſervently Pray unto thee, while all the World is on Fire about their ears, and the miſerable Reprobates make the moſt woeful la<g ref="char:EOLhyphen"/>mentations, that their diſpair and
+<pb n="117" facs="tcp:42518:63"/>Anguiſh, and the worm of Conſci<g ref="char:EOLhyphen"/>ence can ſuggeſt them. The Pious <hi>Agnes</hi> ſtill praied and ſighed and re<g ref="char:EOLhyphen"/>commended her Soul to Heaven, but her merciful Lord, freed her from the violence of the Fire. How were the Flames then divided and only warned the Saint, and then dapart<g ref="char:EOLhyphen"/>ed, and what need a Chriſtian, one that deſerve that Glorious Title, fear and tremble when the Waters and Seas retired at the Praiers of a <hi>Moſes,</hi> and the Fire at the Praiers of the Three Children, and St. <hi>Agnes.</hi> While ſhe thus continued her fervent Ejaculations, the Flames were quite extinguiſhed, and not one ſpark could be found in the Aſhes.</p>
+            <pb n="118" facs="tcp:42518:64"/>
+            <lg>
+               <l>WHat ails this charming Victreſs of the Fire</l>
+               <l>Whence do the frighted Flames in haſt retire</l>
+               <l>No Clouds have from their Wombs diſclos'd a ſhower</l>
+               <l>That might retard their force, or quell their power</l>
+               <l>'Tis ſo, the greater Flame or' ecome the leſs,</l>
+               <l>The Sun our weaker Fire extinguiſhes.</l>
+               <l>Thy fervent Zeal, fair Sain's too great and high,</l>
+               <l>To ſuffer any Fire to burn that's nigh.</l>
+               <l>The conſcious Flames firſt ſaw, then fled away,</l>
+               <l>She deſtin'd was to purer Flames then they,</l>
+               <l>Bleſt Saint in this you more victorious are,</l>
+               <l>Then thoſe, that ſo before protected were.</l>
+               <l>The firſt did with their Skins but gently play,</l>
+               <l>It kiſs'd them on, and never fled away</l>
+               <l>Thoſe gentle Flames, 'tis true ne're burn'd the three,</l>
+               <l>Thy civil ones, nor burn'd nor ſtaid with thee.</l>
+               <l>Before Chast <hi>Agnes</hi> the ſwift heats retire,</l>
+               <l>She that ne're burn'd with Luſt, may dare the Fire,</l>
+               <l>If men turn Cruel thou knowſt where to fly,</l>
+               <l>Flames will indulge that ſafety they deny.</l>
+            </lg>
+            <pb n="119" facs="tcp:42518:64"/>
+            <p>ANd now the Fire was quite extin<g ref="char:EOLhyphen"/>guiſh'd, and the Saint ſtood Pryaing in the midſt of it's Aſhes, like ſome brave Heroe, that ſtands en<g ref="char:EOLhyphen"/>compas'd by thoſe Carkaſſes, that his Victorious Arm hath made ſo.</p>
+            <p>The People were ſo aſtoniſh'd at ſo manifeſt a miracle, that they ſtood ſilent for a long time, and had, I be<g ref="char:EOLhyphen"/>lieve, ſcarce ever purſu'd their cruel<g ref="char:EOLhyphen"/>ties, had not the barbarous Prieſts imputed this miracle to her Sorceries. The Governour <hi>Aſpaſius</hi> ſeem'd to favour their Opinion, and the fool<g ref="char:EOLhyphen"/>iſh Vulgar as they are eaſily perſwaded into any thing, embraced it, and ſuffer'd themſelves to be abus'd into an Errour as Ridiculous, as Damna<g ref="char:EOLhyphen"/>ble. Holy <hi>Agnes</hi> what were thy ſen<g ref="char:EOLhyphen"/>timents of their cruelty? How didſt thou entertain thoſe Scandals? And with what patience couldſt thou hear thy pureſt Innocence ſo ſtain'd and blaſted? My Lord, thou cridſt out in the midſt of the Multitude, where
+<pb n="120" facs="tcp:42518:65"/>thou then waſt, with what eaſe and pleaſure do I follow thy holy Exam<g ref="char:EOLhyphen"/>ple? They call'd thee <hi>Belzebub,</hi> and accuſe me for a Sorcereſs: thou knowſt my Innocence, thou my Maſter, to whom I muſt ſtand or fall. I can de<g ref="char:EOLhyphen"/>ſpiſe the living imputations of mali<g ref="char:EOLhyphen"/>cious men, when I ſuffer for thy ſake, and nothing can be diſagreea<g ref="char:EOLhyphen"/>ble to me, that ſo dear a hand as thine is pleaſed to lay upon me.</p>
+            <p>Since their firſt effort of crueltie had fail'd the Villains, they reſolved to make uſe of another, and after ſome deliberations fix'd upon behead<g ref="char:EOLhyphen"/>ing. The Propoſition was approv'd of the People, and without any lon<g ref="char:EOLhyphen"/>ger delay they led our holy Martyr to the Scaffold. At laſt, brave Chri<g ref="char:EOLhyphen"/>ſtian, have I brought thee to the place of Martyrdom, whence thy Pious Soul muſt fly into the Boſome of thy Saviour. <hi>Aſpaſius</hi> made uſe of the Peoples Pious Fury, and leaſt their minds ſhould alter, commanded the
+<pb n="121" facs="tcp:42518:65"/>Exec<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ioner immediately to perform his o<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, who after the Saint had re<g ref="char:EOLhyphen"/>commended her Soul to the Almigh<g ref="char:EOLhyphen"/>ty, once again (ſo good a deed could not be iterated to often by ſo good a Perſon) and laid down her fair Neck on the Block, with as much tranqui<g ref="char:EOLhyphen"/>lity, as ſhe us'd to do on her Pillow, after ſhe had ſpent the greateſt part of the night in her private Devotions, he gave the fatal blow, and ſever'd her Head from her Body.</p>
+            <p>Thus fell that conſtant Martyr of Chriſt <hi>Jeſus,</hi> the bleſſed St. <hi>Agnes,</hi> not yet fully arriv'd to the Thirteenth Year of her Age. You may juſtly now admire her admirable conſtancy at thoſe Years. But ſhe good <hi>Lady</hi> had prevented her Age, and become a perfect Woman, and moſt conſum<g ref="char:EOLhyphen"/>mate Saint and Martyr, before other <hi>Ladies</hi> as Old as ſhe then was, give themſelves the trouble of one ſerious thought, or an hour of regular Devo<g ref="char:EOLhyphen"/>tion. Her Conſtancy her Chaſtity,
+<pb n="122" facs="tcp:42518:66"/>but above all her Devotion, and all thereſt of her Chriſtian Virtues were ſo admirable, and ſhone with ſo great a luſtre, that it would ſeem almoſt as Ridiculous in me to ſhew them di<g ref="char:EOLhyphen"/>ſtinctly, as to point out the Sun at Noon, or the Moon at Midnight.</p>
+            <lg>
+               <l>THus ſhe from Torture does of Torture go,</l>
+               <l>And what the falmes could not the ſword muſt do.</l>
+               <l>In vain the Pious Flames ſuch mildneſs us'd,</l>
+               <l>The Sword will give that Death, that they refus'd:</l>
+               <l>See how her Purple drops came trickling down,</l>
+               <l>Thoſe Stars that muſt adorn the Martyr's Crown.</l>
+               <l>Why ſhould the Blood along her Neck appear,</l>
+               <l>Nature, alas deſign'd no Purple there.</l>
+               <l>Nature from Grace how much you diſagree?</l>
+               <l>What that eſteems a Grace you Vilifie.</l>
+               <l>From her wide Wound a Thouſand Beauties flow,</l>
+               <l>That pleaſe the Heav'ns, and all but us below,</l>
+               <l>Bad Judges ſure! that nere diſcovered</l>
+               <l>A charm in ought, but what was white and red.</l>
+               <l>Thus do the <hi>Ladies</hi> handſome ſtill appear,</l>
+               <l>Roſes and Lillies all our Beauties are.</l>
+            </lg>
+            <pb n="123" facs="tcp:42518:66"/>
+            <p>SHe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed in the 300<hi rend="sup">th</hi> Year of our Lord or there about, and the Church Celebrates her Feſtival opon he day of Martyrdom, which is the Twenty Friſt day of <hi>January.</hi>
+            </p>
+            <p>And now to make this Hiſtory compleat, I ſhould tell you, what became of the Governour's Son, that was now very happily cur'd of his Paſſion, by the Praiers of the good Martyr, his dear Miſtreſs. But re<g ref="char:EOLhyphen"/>ally there is ſo little to be found a<g ref="char:EOLhyphen"/>mongſt Authors, that I judged it better to omit it, then to bring any conjectures of my own, without any grounds for them in St <hi>Ambrſe, &amp;c.</hi> But it ſeems to be more then probable, that he lived a very good Chriſtian ever after, and when he could not ſee his dear <hi>Agnes</hi> any longer, (for ſhe was now without queſtion more Lovely to him then before, ſince he muſt needs eſteem thoſe Chriſtian Vir<g ref="char:EOLhyphen"/>tues before any of thoſe accompliſh<g ref="char:EOLhyphen"/>ments, he had before ſo much ad<g ref="char:EOLhyphen"/>mir'd
+<pb n="124" facs="tcp:42518:67"/>in her, though form<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly he had injurouſly term'd them Impieties<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when I ſay he could not enjoy her ho<g ref="char:EOLhyphen"/>ly Company, he ſtill preſerved her Memory very tenderly, and did ſtill Imitate her Chriſtian Virtues, which would open him an infallibe Paſſage to our fair Martyr.</p>
+            <p>There is ſomthing more of certain<g ref="char:EOLhyphen"/>ty concerning her good Parents: they buried her pure and Chaſt Body in <hi>Via Numentana</hi> not far from <hi>Rome,</hi> where they commonly, according to the Primitive cuſtome, came to perform their Devotions and lament the loſs of their holy Daughter. One might eaſily pardon them without doubt for ſo juſt a ſorrow, and he muſt needs be inſenſible that was not infinitely afflicted at ſo vaſt a loſs as this. But our holy Saint to comfort her diſtreſ<g ref="char:EOLhyphen"/>ſed Parents, was pleaſed to appear to them at her own Tomb, accompa<g ref="char:EOLhyphen"/>nied with a Glorious Troop of bleſſed Virgins all in white, and deſire them
+<pb n="125" facs="tcp:42518:67"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as ever ſhe had done in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ceaſe their uſeleſs Lamen<g ref="char:EOLhyphen"/>ca<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. She told them, theſe irregu<g ref="char:EOLhyphen"/>lar ſorrows very much injur'd her, and made them ſeem to doubt of her bleſſed Condition. All the cruelty, continued ſhe, that they us'd againſt me, hath turned extreamly to my ad<g ref="char:EOLhyphen"/>vantage, and that Death that extru<g ref="char:EOLhyphen"/>ded me out of the World, hath ſeat<g ref="char:EOLhyphen"/>ed me in a Place of Glory; where if any thing could moleſt and afflict me, and Heaven could admit of any vexa<g ref="char:EOLhyphen"/>tion, be aſſur'd your ſorows would effect it. And really I know not what can be the Subject of all your Tears and Sighs, and your Greif that is the cauſe of both, your <hi>Agnes</hi> ſtill lives, and lives moſt Glorious in the Holy Company of theſe good Virgins, and in the ſervice of our common Maſter the Holy <hi>Jeſu.</hi> What Parent would ſhed his unſeaſonable Tears at his Sons advancement to a Throne, or if he needs muſt weep would ſhed
+<pb n="126" facs="tcp:42518:68"/>any other then thoſe of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Crown of Martyrdom I <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>Caeſars</hi> ever had, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more Auguſt as well as ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, the all the <hi>Livia's</hi> and <hi>Meſalina's,</hi> in the World; and might more juſtly ſeem (if there be any Juſtice in any thing that is vicious;) an Object of your Envie, then your Lamentations. For Chriſt's ſake, therefore give over your more then unneceſſary ſorrows: weep not for <hi>Agnes,</hi> but beſtow your Tears on a fitter Subject, and waſh away your Impieties that make our Saviours Wounds deeper then the Jews did make them. In am happy, and thoſe good drops of Chriſtian Penitence will make you ſo, and ſecurely bring you to the Beatifick Viſion of our Heavenly Redeemer. The Saint ſaid thus and then immediatly vaniſh'd a<g ref="char:EOLhyphen"/>way, and her Friends returned home, full of unſpeakable conſolation. And hence our Holy Mother the Church hath ordered the ſecond Feſtival of
+<pb n="127" facs="tcp:42518:68"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be kept on the Second <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich was the day when <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> her Parents.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> here inſert the Life of her good Foſter Siſter, St. <hi>Emerentiana,</hi> that was Martyr'd at the Tomb of St. <hi>Agnes,</hi> with the miraculous cure and converſion of <hi>Conſtantina,</hi> where<g ref="char:EOLhyphen"/>upon ſhe built a Temple in the place, where the Chaſt Body lay, but it be<g ref="char:EOLhyphen"/>ing my purpoſe only to bring the <hi>Lady</hi> to her Glorious Martyrdom. I ſhall refer you to the Authors, of the Lives of the Saints, and conclude this Hiſto<g ref="char:EOLhyphen"/>ry with a Praier to Almighty God of his Infinite Goodneſs to give us his Heavenly Graces, that we may Imitate the Holy Life and Conſtant Death of his Bleſſed Martyr Saint <hi>Agnes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
